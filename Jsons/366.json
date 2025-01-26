@@ -1,0 +1,15 @@
+{
+    "name": "367. Caught in the Moment",
+    "description": "Sometimes, I get caught in the moment, overwhelmed by the intensity of everything I'm feeling. Life moves so quickly, but when I'm with you, everything else fades away, and I'm completely present. Caught in the moment, I realize that it's these moments that shape who I am and who I want to be.",
+    "image": "367.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, yellow, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "22. My Phone Has No Signal",
+    "description": "In a world so connected, it's funny how losing the signal makes me feel closer to myself and to you. No distractions, no noise, just us and the quiet moments that remind me what really matters.",
+    "image": "22.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, yellow, white, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

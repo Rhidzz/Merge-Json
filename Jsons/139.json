@@ -1,0 +1,15 @@
+{
+    "name": "140. Lost in You",
+    "description": "I've found a kind of peace in being lost in you, in letting go of everything else and simply focusing on us. In your love, I lose myself, but it's a loss that feels like home. Lost in you, I'm finally found.",
+    "image": "140.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, white, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

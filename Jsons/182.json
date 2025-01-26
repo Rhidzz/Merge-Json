@@ -1,0 +1,15 @@
+{
+    "name": "183. Fire in My Soul",
+    "description": "There's a fire that burns deep inside me, ignited by thoughts of you and fueled by the love we share. It's the kind of fire that never dies, always burning bright with every moment we spend together. Fire in my soul is the love that keeps me going, even when the world tries to pull me down.",
+    "image": "183.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, green, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

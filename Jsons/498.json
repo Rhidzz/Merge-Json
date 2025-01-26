@@ -1,0 +1,15 @@
+{
+    "name": "499. A Heart Open to the World",
+    "description": "My heart is open, wide and vulnerable, ready to welcome whatever life brings. It hasn't always been easy to open up, but I've learned that love, connection, and peace come when I allow myself to be fully open. A heart open to the world is a heart that believes in the goodness of what's to come.",
+    "image": "499.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

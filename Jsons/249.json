@@ -1,0 +1,15 @@
+{
+    "name": "250. Your Heart is My Home",
+    "description": "Home isn't a place; it's you. Your heart is where I feel safe, where I feel understood, and where I can truly be myself. Your heart is my home, and there's nowhere else I'd rather be.",
+    "image": "250.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, orange, red, black, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

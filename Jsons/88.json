@@ -1,0 +1,15 @@
+{
+    "name": "89. I Can't Let You Go",
+    "description": "There's something about you that I can't shake. No matter how far apart we are, no matter how much time passes, I can't let you go. You've left your mark on my heart, and nothing will change that.",
+    "image": "89.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, pink, magenta, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

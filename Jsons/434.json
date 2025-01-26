@@ -1,0 +1,15 @@
+{
+    "name": "435. Alone But Not Lonely",
+    "description": "There are times when I'm alone, but I'm never truly lonely. I've learned to embrace solitude as a space for growth, reflection, and self-discovery. Alone but not lonely means finding comfort in my own company, learning to love myself as I am.",
+    "image": "435.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, blue, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

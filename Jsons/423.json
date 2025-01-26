@@ -1,0 +1,15 @@
+{
+    "name": "424. Different and Proud",
+    "description": "I'm different, and I'm proud of it. My experiences, my challenges, my strengths everything that makes me who I am is something to celebrate. Different and proud means embracing every part of myself, knowing that I have something unique to offer the world.",
+    "image": "424.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

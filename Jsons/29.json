@@ -1,0 +1,15 @@
+{
+    "name": "30. Can't Stop Thinking About You",
+    "description": "You've taken over my mind in the best way. Every thought circles back to you your laugh, your smile, the way you make me feel like I'm the only one that matters. I can't stop thinking about you, and honestly, I don't want to.",
+    "image": "30.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, red, green, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

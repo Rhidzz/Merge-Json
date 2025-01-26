@@ -1,0 +1,15 @@
+{
+    "name": "157. Under Your Spell",
+    "description": "You have a way of capturing me, holding me in a trance that I never want to escape. Under your spell, I find myself lost in the magic of your love, in the way you make everything feel right. There's no place I'd rather be than in the spell you've cast on me.",
+    "image": "157.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, red, magenta, black, white, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

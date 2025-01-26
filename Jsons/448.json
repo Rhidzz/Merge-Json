@@ -1,0 +1,15 @@
+{
+    "name": "449. The Truth of My Heart",
+    "description": "The truth of my heart is raw, real, and unapologetic. It's been shaped by my experiences, my challenges, and my love, and it's something I no longer hide. The truth of my heart is my strength, my foundation, and the key to everything I am and will become.",
+    "image": "449.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

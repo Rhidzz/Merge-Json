@@ -1,0 +1,15 @@
+{
+    "name": "135. Burning Desire",
+    "description": "There's a fire that burns within me, ignited by the thought of you. It's a desire that can't be contained, a longing that keeps me awake at night. Burning desire is the fuel that drives me to love you more every single day.",
+    "image": "135.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "tan, red, blue, white, black, gold"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, glitter"
+        }
+    ]
+}

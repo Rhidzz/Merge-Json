@@ -1,0 +1,15 @@
+{
+    "name": "524. Freedom in the Journey",
+    "description": "The journey is where the freedom lies, not just in the destination. Every step, every detour, every challenge has led me to where I am today. Freedom in the journey means trusting that the path I'm on is the right one, even when I don't have all the answers.",
+    "image": "524.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

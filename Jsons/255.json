@@ -1,0 +1,15 @@
+{
+    "name": "256. Unraveling the Past",
+    "description": "The past is woven with memories, some painful, some beautiful, but all part of our journey. We unravel it slowly, piece by piece, learning and growing with each discovery. Unraveling the past isn't about erasing it it's about embracing it and using it to build a stronger future.",
+    "image": "256.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, white, tan, teal, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

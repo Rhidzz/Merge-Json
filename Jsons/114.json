@@ -1,0 +1,15 @@
+{
+    "name": "115. Close to You",
+    "description": "There's a comfort in being close to you, a peace that washes over me whenever you're near. The world fades, and all I need is this moment, wrapped in your presence. Close to you, I am whole.",
+    "image": "115.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, black, gray, tan, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

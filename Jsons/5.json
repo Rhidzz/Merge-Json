@@ -1,0 +1,15 @@
+{
+    "name": "6. Go The Distance For You",
+    "description": "When it comes to the ones I love, there's no limit, no obstacle, no barrier too great. I'd cross every line, climb every mountain, and fight through the pain just to make sure you know how much you mean to me. I'd go the distance for you.",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, purple, pink, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

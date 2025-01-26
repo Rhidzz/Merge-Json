@@ -1,0 +1,15 @@
+{
+    "name": "299. In My Own World",
+    "description": "Sometimes, I retreat into my own world where I can breathe, think, and just be myself. The world outside doesn't always fit the way I see things, but in my world, I find peace. It's not an escape, it's a place where I'm free to feel everything without judgment.",
+    "image": "299.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "foil, drips, brush strokes, saturated"
+        }
+    ]
+}

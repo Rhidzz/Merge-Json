@@ -1,0 +1,15 @@
+{
+    "name": "530. Rising with Every Step",
+    "description": "With each step I take, I rise stronger, more confident, and more at peace with who I am. The journey may be difficult, but every step is an opportunity to grow, to learn, and to become more of the person I'm meant to be. Rising with every step means knowing that progress isn't always immediate, but it's always happening.",
+    "image": "530.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

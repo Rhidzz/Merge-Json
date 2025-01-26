@@ -1,0 +1,15 @@
+{
+    "name": "9. 9. Pour Me Through The Fire",
+    "description": "Love isn't always easy; it tests, it burns, it shapes who we are. But for you, I'd endure every flame, every trial, knowing it's the fire that makes us stronger. Pour me through the fire, and I'll come out the other side still choosing you.",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, teal, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "529. The Power of Being Me",
+    "description": "There's incredible power in being unapologetically me no one else can offer what I bring to the table. I've learned that I don't need to change for anyone. The power of being me is in living authentically, in owning every part of who I am and sharing it with the world.",
+    "image": "529.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

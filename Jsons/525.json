@@ -1,0 +1,15 @@
+{
+    "name": "526. Uncovering My Infinite Potential",
+    "description": "I've spent too much time doubting myself, but I'm beginning to uncover the infinite potential within me. Every challenge I face reveals a new strength, a new possibility. Uncovering my infinite potential means trusting that I am capable of so much more than I ever imagined.",
+    "image": "526.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, black, white, teal, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

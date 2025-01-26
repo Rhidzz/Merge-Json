@@ -1,0 +1,15 @@
+{
+    "name": "125. Boundless Hearts",
+    "description": "Our hearts are boundless, limitless, capable of loving beyond measure. Together, we create a love that has no end, no boundaries, only infinite possibilities. Our love is a force that will never stop growing.",
+    "image": "125.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, red, yellow, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

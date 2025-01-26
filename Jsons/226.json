@@ -1,0 +1,15 @@
+{
+    "name": "227. I Still Love You Though",
+    "description": "Even when things fall apart, even when we make mistakes, I still love you though. No matter what, that love never goes away it only gets stronger. I'll love you through every struggle, through everything, because that's what love is.",
+    "image": "227.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, blue, light blue, purple, teal, white, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

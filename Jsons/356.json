@@ -1,0 +1,15 @@
+{
+    "name": "357. Caught in Between",
+    "description": "I often feel caught between two worlds one that expects me to fit in, and another where I can truly be myself. This in-between space is uncomfortable, but it's where I'm learning to grow. Caught in between, I am finding my place, carving out a space that's just for me.",
+    "image": "357.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "tan, white, blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, glitter"
+        }
+    ]
+}

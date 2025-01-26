@@ -1,0 +1,15 @@
+{
+    "name": "489. Unveiling My Potential",
+    "description": "There's so much potential within me, waiting to be unlocked. Every challenge, every triumph has shaped me into someone capable of achieving things I once thought impossible. Unveiling my potential means embracing my journey, trusting in my abilities, and stepping into the person I am meant to become.",
+    "image": "489.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

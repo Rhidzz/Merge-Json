@@ -1,0 +1,15 @@
+{
+    "name": "206. Love in Every Moment",
+    "description": "Love isn't just in the big gestures, it's in every little moment we share. It's in the laughter, the quiet moments, and the touch that says more than words ever could. Love in every moment is a reminder that every second counts when we're together.",
+    "image": "206.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

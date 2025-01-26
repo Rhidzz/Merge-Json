@@ -1,0 +1,15 @@
+{
+    "name": "57. Body to Body, Heart to Heart",
+    "description": "Every touch, every embrace, it's more than just skin deep. It's body to body, heart to heart two souls connecting in a way words can't express. In these moments, we're not just together, we're truly one.",
+    "image": "57.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, red, black, orange, white, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

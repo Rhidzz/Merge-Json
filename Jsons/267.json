@@ -1,0 +1,15 @@
+{
+    "name": "268. Your Touch, My Truth",
+    "description": "When you touch me, everything becomes clear. Your touch is more than physical it's a connection, a truth that I've been searching for all my life. In your touch, I find my truth, my heart, and everything that matters.",
+    "image": "268.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, black, white, pink, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

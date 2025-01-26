@@ -1,0 +1,15 @@
+{
+    "name": "56. It's Not Over Yet",
+    "description": "Even when it feels like everything is falling apart, I know deep down it's not over yet. There's still more to fight for, more love to give, and a future that's waiting for us. We're not done. Not by a long shot.",
+    "image": "56.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, orange, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "328. In the Shadows of Thought",
+    "description": "My thoughts sometimes linger in the shadows, in the quiet spaces where doubts creep in. Living with a disability means navigating those shadows, trying to find the light in a world that doesn't always see me. But in those shadows, I've learned to find clarity, to face what scares me, and to rise above it.",
+    "image": "328.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, dark blue, black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

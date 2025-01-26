@@ -1,0 +1,15 @@
+{
+    "name": "417. A Voice in the Silence",
+    "description": "In the silence, I have a voice. It's not always loud, but it's always there, strong and steady, waiting to be heard. A voice in the silence is more than just words it's the expression of everything I am, everything I've overcome, and everything I still have to give.",
+    "image": "417.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "355. Untold Stories",
+    "description": "There are stories within me that have never been shared ones that linger in the quiet corners of my heart. They're part of my journey, of the path I walk in a world that doesn't always see me. But in these untold stories, I find my voice, waiting for the moment they can be heard.",
+    "image": "355.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, tans, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

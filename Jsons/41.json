@@ -1,0 +1,15 @@
+{
+    "name": "42. Remember My Love",
+    "description": "Even when time passes and the world moves on, remember my love. It's the kind that stays with you, woven into the smallest moments, the quiet memories. No matter where life takes us, my love for you will never fade.",
+    "image": "42.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, blue, teal, white, gray, red, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

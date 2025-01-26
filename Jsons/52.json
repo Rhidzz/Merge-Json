@@ -1,0 +1,15 @@
+{
+    "name": "53. Could We Last Eternally?",
+    "description": "In a world that changes so fast, I can't help but wonder could we last eternally? Can our love be the kind that stands the test of time, that grows stronger with every passing day? Because when I'm with you, forever doesn't seem so far away.",
+    "image": "53.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, yellow, magenta, red, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "77. Checking the Vibe",
+    "description": "Sometimes, all it takes is a glance, a feeling, a shift in energy. Checking the vibe, feeling the rhythm of the moment, and knowing whether we're in sync or not. It's in the air, and it's always worth paying attention to.",
+    "image": "77.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, orange, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "296. Unspoken Words",
+    "description": "There are things I can't always put into words feelings that I can't quite explain. Living with a disability means sometimes words don't feel like enough, but the love I have runs deeper than anything I can say. The unspoken words are the ones that speak the loudest in my heart.",
+    "image": "296.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, teal, pink, turquoise, purple, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

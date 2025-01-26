@@ -1,0 +1,15 @@
+{
+    "name": "126. Dreams of You",
+    "description": "In my quietest moments, I find myself dreaming of you of us, of the life we're building together. These dreams are more than wishes; they're promises of a future where we never let go. In my dreams, I find the hope to keep moving forward.",
+    "image": "126.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, tan, black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

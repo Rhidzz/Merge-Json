@@ -1,0 +1,15 @@
+{
+    "name": "341. Inside the Chaos",
+    "description": "There's a chaos inside me that no one sees, a constant swirl of thoughts, emotions, and dreams. Living with a disability means that the world often feels like too much to handle, but it's in the chaos that I find clarity. Inside the chaos, I learn to navigate the noise and discover my true self.",
+    "image": "341.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, yellow, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

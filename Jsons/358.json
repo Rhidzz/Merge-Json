@@ -1,0 +1,15 @@
+{
+    "name": "359. Fading into You",
+    "description": "There are moments when I feel like I'm fading into you lost in the connection we share. In your presence, I find peace, a sense of belonging that's hard to put into words. Fading into you doesn't mean losing myself; it means finding a love that makes me feel whole.",
+    "image": "359.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

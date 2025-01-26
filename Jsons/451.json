@@ -1,0 +1,15 @@
+{
+    "name": "452. In the Midst of Uncertainty",
+    "description": "Uncertainty surrounds me, and yet I've learned to find peace within it. The unknown doesn't scare me as much as it once did, because I've realized that it's where growth happens. In the midst of uncertainty, I find the strength to keep moving forward, trusting that everything will fall into place.",
+    "image": "452.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, white, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

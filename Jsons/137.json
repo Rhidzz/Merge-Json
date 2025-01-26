@@ -1,0 +1,15 @@
+{
+    "name": "138. Undying Love",
+    "description": "Even in the face of hardship, even when the world seems to crumble, my love for you remains undying. It's a force that can never be extinguished, a flame that will burn for eternity. This love will last, no matter what comes our way.",
+    "image": "138.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, yellow, black, teal, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

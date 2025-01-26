@@ -1,0 +1,15 @@
+{
+    "name": "418. In My Own Rhythm",
+    "description": "The world moves fast, but I've learned to follow my own rhythm, to move at my own pace. Living authentically means letting go of the pressure to keep up and instead trusting in my own timing. In my own rhythm, I find peace, strength, and a sense of belonging.",
+    "image": "418.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black, salmon, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

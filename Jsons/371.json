@@ -1,0 +1,15 @@
+{
+    "name": "372. Flickering Memories",
+    "description": "My memories flicker like a light, sometimes clear, sometimes fading into the background. They remind me of who I've been, where I've come from, and all the emotions I've carried. Flickering memories don't fade completely they linger, guiding me through the present with lessons from the past.",
+    "image": "372.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "teal, white, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

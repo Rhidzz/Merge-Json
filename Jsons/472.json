@@ -1,0 +1,15 @@
+{
+    "name": "473. Daring to Stand Out",
+    "description": "I dare to stand out, even when it means walking a path that's not always easy or clear. Standing out means embracing my uniqueness, showing the world that I don't need to conform to fit in. Daring to stand out is about owning my space in the world and celebrating what makes me different.",
+    "image": "473.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, salmon, teal, pink, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

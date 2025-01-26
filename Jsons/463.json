@@ -1,0 +1,15 @@
+{
+    "name": "464. An Outsider's Peace",
+    "description": "As an outsider, I've learned to find peace in spaces that don't always make room for me. My peace isn't found in conformity; it's found in owning my place in the world, no matter how different it may be. An outsider's peace is a quiet strength, knowing that I don't need to fit in to belong.",
+    "image": "464.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, orange, teal, pink, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

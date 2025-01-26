@@ -1,0 +1,15 @@
+{
+    "name": "461. In a World That Turns Away",
+    "description": "In a world that often turns away from what's different, I choose to stand tall and embrace my own path. Being seen isn't always easy, but I've learned that my worth isn't defined by others' acceptance. In a world that turns away, I walk with my head held high, proud of who I am.",
+    "image": "461.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "356. Beneath the Noise",
+    "description": "The noise of the world can be deafening, sometimes drowning out everything I need to hear. But beneath that noise, I find peace the quiet moments where I can listen to my own thoughts and regain clarity. Beneath the noise is where I rediscover myself, where I find the strength to keep going.",
+    "image": "356.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, teal, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

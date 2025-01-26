@@ -1,0 +1,15 @@
+{
+    "name": "334. Flickering Thoughts",
+    "description": "My thoughts flicker, like a light struggling to stay on, sometimes clear, sometimes lost in the dark. Being differently-abled means I sometimes have to fight to focus, to stay grounded in what matters. But those flickering thoughts are part of my process they help me understand, grow, and find my path in a world that's always moving.",
+    "image": "334.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

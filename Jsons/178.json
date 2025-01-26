@@ -1,0 +1,15 @@
+{
+    "name": "179. Pure Passion",
+    "description": "There's a fire between us, a pure passion that burns without apology. It's not just desire; it's the kind of love that consumes every part of me, igniting something wild and beautiful. In every touch, in every kiss, this passion reminds me that love is the most powerful force we have.",
+    "image": "179.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, white, pink, green, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, gems"
+        }
+    ]
+}

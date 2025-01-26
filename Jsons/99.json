@@ -1,0 +1,15 @@
+{
+    "name": "100. Take Me Home",
+    "description": "Take me home, not to a place, but to a feeling where I can rest, heal, and find peace. Home is where my heart is truly free, where I can let go of the world and just be. Take me back to where love lives without fear, where I feel safe to be myself.\n",
+    "image": "100.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, green, teal, black, magenta, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

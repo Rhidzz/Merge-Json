@@ -1,0 +1,15 @@
+{
+    "name": "447. The Strength in My Fragility",
+    "description": "There is strength in fragility, in being soft yet unbreakable, delicate yet resilient. The world doesn't always see it, but my fragility has made me stronger than I ever imagined. The strength in my fragility is the courage to embrace my vulnerabilities and rise above them.",
+    "image": "447.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

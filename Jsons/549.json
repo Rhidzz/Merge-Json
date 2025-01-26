@@ -1,0 +1,15 @@
+{
+    "name": "550. Letting Go and Moving Forward",
+    "description": "Letting go isn't easy, but it's necessary for growth. I've learned to release what no longer serves me, to make room for new beginnings. Letting go and moving forward means trusting that what's ahead is exactly what I need, even if I can't see it yet.",
+    "image": "550.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

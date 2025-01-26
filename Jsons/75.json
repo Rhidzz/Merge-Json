@@ -1,0 +1,15 @@
+{
+    "name": "76. Speaking from the Heart",
+    "description": "When words come from the heart, they carry weight beyond what we can see. They're not just spoken they're felt. And when I speak from the heart, I'm letting you into a place only a few will ever know.",
+    "image": "76.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, blue, green, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "gems, brush strokes, drips"
+        }
+    ]
+}

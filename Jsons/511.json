@@ -1,0 +1,15 @@
+{
+    "name": "512. Surrendering to Freedom",
+    "description": "Surrendering to freedom means letting go of control and trusting that I'll be okay. I used to be afraid of the unknown, but now I realize that freedom is found in the spaces where I allow myself to just be. Surrendering to freedom is about embracing the journey and finding peace in the uncertainty.",
+    "image": "512.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, turquoise, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "421. Redefining Normal",
+    "description": "I've spent too much time trying to fit into a world that didn't define me, but I've learned that normal doesn't have to look the same for everyone. Redefining normal means embracing my uniqueness, my journey, and my truth. My normal is mine, and it's just as valid as anyone else's.",
+    "image": "421.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, orange, pink, dark purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

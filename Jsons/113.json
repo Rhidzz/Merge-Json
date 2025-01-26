@@ -1,0 +1,15 @@
+{
+    "name": "114. In Your Eyes",
+    "description": "In your eyes, I see everything I've ever wanted love, understanding, and a future filled with hope. You don't have to speak for me to know what you feel; your eyes say it all. And in them, I find my forever.",
+    "image": "114.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, yellow, dark blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

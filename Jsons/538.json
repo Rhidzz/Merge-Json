@@ -1,0 +1,15 @@
+{
+    "name": "539. A Soul in Full Bloom",
+    "description": "My soul is blooming, unfolding in its own time, shedding old layers and embracing the beauty of who I am becoming. Every experience has nourished it, every challenge has helped it grow stronger. A soul in full bloom is one that thrives in its truth, radiates love, and lives with purpose.",
+    "image": "539.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

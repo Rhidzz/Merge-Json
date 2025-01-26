@@ -1,0 +1,15 @@
+{
+    "name": "175. Wrapped in Desire",
+    "description": "We are wrapped in a desire that is unspoken, yet undeniable. It consumes us, pulling us closer with every glance, every touch. Wrapped in desire, we are intertwined in a love that feels like fire, burning brightly, never fading.",
+    "image": "175.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, yellow, red, black, green, orange, pink, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

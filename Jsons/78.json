@@ -1,0 +1,15 @@
+{
+    "name": "79. No Fear, Only Love",
+    "description": "When love is real, there's no room for fear. No worries about what might happen, no second thoughts just love, pure and unfiltered. In this moment, it's only love, and that's all we need.",
+    "image": "79.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, white, black, green, teal, magenta, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

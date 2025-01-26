@@ -1,0 +1,15 @@
+{
+    "name": "20. I Can See My Whole Changing",
+    "description": "Everything I thought I was is shifting every piece of me evolving into something new, something stronger. Being with you has opened my eyes to what's possible, and now, I can see my whole life changing in ways I never imagined.",
+    "image": "20.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, yellow, gray, white, black, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

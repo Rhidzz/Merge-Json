@@ -1,0 +1,15 @@
+{
+    "name": "362. Echoes of the Heart",
+    "description": "The echoes of my heart resonate with everything I've loved, lost, and learned. In every beat, I hear the stories of my journey, the struggles and victories that have shaped me. These echoes aren't just memories; they are the foundation of who I am, guiding me toward the future.",
+    "image": "362.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

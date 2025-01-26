@@ -1,0 +1,15 @@
+{
+    "name": "378. The Weight of the Soul",
+    "description": "The weight of the soul is carried in every step I take, every decision I make, and every moment I face. It's not always easy to bear, but it's mine to carry, and I've learned to carry it with grace. The weight of the soul doesn't break me it builds me, making me who I am and guiding me toward who I'm becoming.",
+    "image": "378.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

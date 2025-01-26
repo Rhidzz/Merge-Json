@@ -1,0 +1,15 @@
+{
+    "name": "235. Embracing the Journey Ahead",
+    "description": "There's a path ahead, full of unknowns, but I'm ready to embrace it with you by my side. Whatever the journey brings, I know we'll face it together, stronger than ever. Embracing the journey ahead means trusting in us, and I have no doubt we're meant to walk this road together.",
+    "image": "235.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, red, white, blue, black, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

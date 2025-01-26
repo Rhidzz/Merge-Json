@@ -1,0 +1,15 @@
+{
+    "name": "173. A Desire Unspoken",
+    "description": "There are desires that words cannot capture, feelings that are too deep for language to express. In the silence between us, I feel it the longing, the yearning, that speaks louder than any words could. A desire unspoken is felt with every glance, every touch, every heartbeat.",
+    "image": "173.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, orange, white, blue, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

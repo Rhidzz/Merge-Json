@@ -1,0 +1,15 @@
+{
+    "name": "507. Freedom Through Expression",
+    "description": "When I express myself, I feel a weight lifted, like the world can finally hear me. There's so much power in allowing my voice to be heard, in sharing my story without fear. Freedom through expression is the ability to be seen and understood, knowing that my voice matters.",
+    "image": "507.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

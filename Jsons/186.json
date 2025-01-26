@@ -1,0 +1,15 @@
+{
+    "name": "187. Evermore With You",
+    "description": "No matter where life takes us, I know that I will be evermore with you. Through all the highs and lows, through every twist and turn, we will walk this path together. Forever isn't just a word; it's the promise we've made to each other, through everything.",
+    "image": "187.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

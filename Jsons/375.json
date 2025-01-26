@@ -1,0 +1,15 @@
+{
+    "name": "376. Echoing Inside",
+    "description": "The echoes inside me are soft but constant, like whispers from the past, lessons that I can't forget. They guide me, remind me of the things I've learned, and the things I've yet to understand. Echoing inside, I hear the call to keep moving, to keep growing, to keep becoming who I am meant to be.",
+    "image": "376.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

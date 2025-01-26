@@ -1,0 +1,15 @@
+{
+    "name": "366. Thoughts in the Dark",
+    "description": "There are nights when my thoughts seem to swirl in the dark, bringing up doubts, fears, and questions I don't always have answers for. But it's in the dark that I find clarity, where the quiet allows me to sort through the noise and discover what truly matters. Thoughts in the dark are a part of the process, a reminder that growth often comes from the places we least expect.",
+    "image": "366.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

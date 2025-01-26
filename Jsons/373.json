@@ -1,0 +1,15 @@
+{
+    "name": "374. In the Depths of Feeling",
+    "description": "Sometimes, I go so deep into my feelings that it feels like I'll never find my way out. But in these depths, I discover parts of myself I've hidden away, pieces that I didn't know I needed. In the depths of feeling, I find both pain and healing, both struggle and strength.",
+    "image": "374.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

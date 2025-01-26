@@ -1,0 +1,15 @@
+{
+    "name": "465. My Own Form of Strength",
+    "description": "Strength doesn't look the same for everyone, and I've learned to define mine on my own terms. My strength comes from embracing my uniqueness, from navigating the world in my own way. My own form of strength is the quiet resilience I carry, the ability to stand firm, even when the world seems to move faster than I can keep up with.",
+    "image": "465.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, teal, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

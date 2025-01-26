@@ -1,0 +1,15 @@
+{
+    "name": "122. In the Glow of You",
+    "description": "Your presence fills the room, casting a glow that lights up everything around us. In the glow of you, I feel like I'm home, like everything is right in the world. Your love is the light that guides me through the dark.",
+    "image": "122.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "tan, black, green, teal, white, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

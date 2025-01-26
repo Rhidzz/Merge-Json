@@ -1,0 +1,15 @@
+{
+    "name": "233. Kiss Me Softly",
+    "description": "Kiss me softly, like the world has paused for just a moment, like nothing else matters but us. Let your lips speak the words that your heart can't, and let the tenderness of your kiss say everything. Kiss me softly, and remind me that in this moment, we are everything.",
+    "image": "233.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, tan, yellow, gray, dark purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

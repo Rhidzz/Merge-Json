@@ -1,0 +1,15 @@
+{
+    "name": "44. Can You Feel Me?",
+    "description": "In the quiet moments, when words fade and the world slows down, can you feel me? My heart beats for you, my thoughts are with you, and every part of me is reaching out hoping you can sense the love I'm sending your way.",
+    "image": "44.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, blue, purple, red, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

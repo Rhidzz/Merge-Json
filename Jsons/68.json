@@ -1,0 +1,15 @@
+{
+    "name": "69. I'm Here, Finally",
+    "description": "I've walked through storms, fought my way through struggles, and now, here I am. Finally. Standing in my truth, in my power, and ready to embrace what's next. I'm here, and it's only just the beginning.",
+    "image": "69.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, green, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

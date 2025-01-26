@@ -1,0 +1,15 @@
+{
+    "name": "51. Can We Ride This Out Together?",
+    "description": "When the world feels overwhelming and the storms seem unending, can we ride this out together? Through every high and low, every twist and turn, I want to face it all with you by my side. Together, we can endure anything our love is the strength we need.",
+    "image": "51.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, yellow, orange, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

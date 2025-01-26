@@ -1,0 +1,15 @@
+{
+    "name": "253. Moving Beyond Regret",
+    "description": "Regret can hold us back, but it doesn't define us. We've learned from the past, and now it's time to move forward, free from the weight of what could have been. Moving beyond regret is about embracing the lessons and using them to build the future we deserve.",
+    "image": "253.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, tan, black, gray, silver, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "255. Together, We Evolve",
+    "description": "We don't stay the same we evolve, we grow, and we learn together. Every challenge we face makes us better, stronger, and more connected. Together, we evolve into the people we are meant to be, side by side, every step of the way.",
+    "image": "255.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black, burnt red, bright blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

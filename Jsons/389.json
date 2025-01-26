@@ -1,0 +1,15 @@
+{
+    "name": "390. Walking My Own Path",
+    "description": "The road is often unclear, filled with obstacles that others don't see, but I've learned to walk my own path. Living with a disability means sometimes going against the grain, making my own way when the world doesn't offer a map. Walking my own path is where I find my freedom, my strength, and my purpose.",
+    "image": "390.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

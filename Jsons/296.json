@@ -1,0 +1,15 @@
+{
+    "name": "297. Thoughts Collide",
+    "description": "In my mind, thoughts collide ideas, fears, hopes, and doubts all fighting for attention. It's not easy to sort through them, but I've learned to listen to the ones that matter most. When my thoughts collide, I know it's just part of my process, figuring it all out.",
+    "image": "297.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, gray, gray, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

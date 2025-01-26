@@ -1,0 +1,15 @@
+{
+    "name": "18. Upside Down",
+    "description": "You've changed everything I thought I knew flipped my world in the best way. With you, nothing is predictable, yet everything feels right. Life feels different now, and for the first time, I wouldn't want it any other way.",
+    "image": "18.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, yellow, white, black "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

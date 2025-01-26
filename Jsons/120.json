@@ -1,0 +1,15 @@
+{
+    "name": "121. Holding You Close",
+    "description": "There's a safety in holding you close, a warmth that wraps around me like nothing else. In your arms, I find peace, knowing that no matter what we face, we have each other. Holding you close is the most natural thing I could ever do.",
+    "image": "121.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, pink, blue, purple, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

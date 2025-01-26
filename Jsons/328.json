@@ -1,0 +1,15 @@
+{
+    "name": "329. Chasing the Quiet",
+    "description": "I often find myself chasing the quiet, searching for a place where my mind can settle and my soul can breathe. Being in this world means trying to find moments of peace amidst the noise and the rush. Chasing the quiet is how I find my center, how I reconnect with the stillness inside me.",
+    "image": "329.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, gray, orange, dark green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

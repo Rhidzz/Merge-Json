@@ -1,0 +1,15 @@
+{
+    "name": "321. Mindful of You",
+    "description": "Through every challenge, I'm mindful of you of how we share this journey, of how your love and support keep me going. Living with a disability means that I don't always have all the answers, but with you by my side, I feel stronger. Being mindful of you reminds me that love is the light in the midst of the darkness.",
+    "image": "321.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, yellow, red, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

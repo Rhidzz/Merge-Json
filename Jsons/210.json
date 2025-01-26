@@ -1,0 +1,15 @@
+{
+    "name": "211. Through the Fire of Love",
+    "description": "We've been through the fire together, and it hasn't burned us it's made us stronger. Love isn't always easy, but it's in those tough moments where we prove how deep our bond truly is. Through the fire of love, we become unstoppable.",
+    "image": "211.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, green, black, purple, red, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

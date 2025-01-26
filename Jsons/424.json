@@ -1,0 +1,15 @@
+{
+    "name": "425. Unveiling the Real Me",
+    "description": "I've spent too much of my life hiding parts of myself, afraid that the world wouldn't understand. But now, I'm unveiling the real me the person who has been shaped by every challenge, every triumph, and every quiet moment of growth. The real me is unapologetically myself, and I'm finally ready to show the world.",
+    "image": "425.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, pink, tan, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

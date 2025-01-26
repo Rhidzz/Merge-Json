@@ -1,0 +1,15 @@
+{
+    "name": "336. Trapped in My Heart",
+    "description": "My heart often feels like a cage, holding onto emotions and desires that I can't always express. Being differently-abled means trying to make sense of a world that isn't always kind to me, and sometimes, it feels like I'm trapped within my own feelings. But even in this place, I know my heart is strong, capable of love and resilience.",
+    "image": "336.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, green, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

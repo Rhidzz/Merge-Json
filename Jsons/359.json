@@ -1,0 +1,15 @@
+{
+    "name": "360. Wandering Thoughts",
+    "description": "My thoughts wander like a restless traveler, drifting between past memories and future possibilities. They don't always have a clear path, but in this wandering, I find pieces of myself I never knew were there. Wandering thoughts might seem scattered, but they're guiding me toward clarity, one step at a time.",
+    "image": "360.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

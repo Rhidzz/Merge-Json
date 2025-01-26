@@ -1,0 +1,15 @@
+{
+    "name": "312. Restless Mind",
+    "description": "My mind is restless, constantly searching for answers, solutions, and a sense of peace. Living with a disability means thinking about things that others might never have to, trying to navigate a world that wasn't built for me. A restless mind isn't a curse it's a reminder that I'm always striving to grow, to find my way, to be more than what others expect.",
+    "image": "312.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

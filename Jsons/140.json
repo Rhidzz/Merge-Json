@@ -1,0 +1,15 @@
+{
+    "name": "141. Hearts Aligned",
+    "description": "When our hearts beat in sync, nothing else matters. The struggles, the noise, the distractions they all fade away. Hearts aligned, we find our rhythm, and together we move through life's journey as one.",
+    "image": "141.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "teal, magenta, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, drips"
+        }
+    ]
+}

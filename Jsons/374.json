@@ -1,0 +1,15 @@
+{
+    "name": "375. Fading in My Mind",
+    "description": "There are moments when my thoughts start to fade, slipping through my fingers like sand. It's in these moments that I feel disconnected, like the world is moving on while I'm left behind. But even as my mind fades, I know I'll find my way back one thought at a time, one step forward.",
+    "image": "375.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, gray, white, black, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "506. Rooted in Acceptance",
+    "description": "I'm finally rooted in acceptance not just of the world, but of myself. I've stopped trying to fit into places that don't understand me. Rooted in acceptance, I can stand tall, grounded in the love I have for who I've become and the journey I've taken.",
+    "image": "506.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, orange, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

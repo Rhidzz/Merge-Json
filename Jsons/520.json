@@ -1,0 +1,15 @@
+{
+    "name": "521. Free to Explore",
+    "description": "Exploration is freedom, whether it's exploring the world around me or the world within me. I am free to seek new experiences, to grow in unexpected ways, and to find new meaning in every day. Free to explore means embracing the unknown, knowing that every step I take leads me closer to the person I'm meant to be.",
+    "image": "521.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

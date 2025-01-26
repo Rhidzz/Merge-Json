@@ -1,0 +1,15 @@
+{
+    "name": "204. In the Depths of You",
+    "description": "In the depths of you, I find the truest parts of myself. It's not just in your love, but in the way you make me feel seen, understood, and cherished. The depths of you are where I want to be, where I want to stay, forever.",
+    "image": "204.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, white, blue, pink, black, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, gems"
+        }
+    ]
+}

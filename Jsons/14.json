@@ -1,0 +1,15 @@
+{
+    "name": "15. Take Me Home",
+    "description": "Home isn't a place it's a feeling. It's the comfort of your arms, the peace in your presence, and the warmth of knowing I'm exactly where I belong. Take me home, not to a house, but to you.",
+    "image": "15.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, black, yellow, green, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

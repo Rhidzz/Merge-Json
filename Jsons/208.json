@@ -1,0 +1,15 @@
+{
+    "name": "209. I'm Lost in You",
+    "description": "There are moments when I lose myself in you, and somehow, I don't want to be found. You've become my escape and my reality all at once. I'm lost in you, and for the first time, I know it's exactly where I want to be.",
+    "image": "209.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, light blue, tan, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

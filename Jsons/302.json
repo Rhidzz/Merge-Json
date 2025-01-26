@@ -1,0 +1,15 @@
+{
+    "name": "303. Bound by Emotion",
+    "description": "I'm bound by emotion sometimes it's overwhelming, but it's also what makes me human. Living with a disability means that my feelings often take center stage, but I've learned that these emotions are what make me strong. Bound by emotion, I've found my way to embrace life with everything I've got.",
+    "image": "303.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "salmon, white, blue, dark blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

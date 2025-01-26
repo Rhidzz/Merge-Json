@@ -1,0 +1,15 @@
+{
+    "name": "82. No More Trying Too Hard",
+    "description": "I used to push, try to fit into places I didn't belong, but no more. No more trying too hard to be something I'm not. I'm embracing who I am, as I am genuine, unfiltered, and finally at peace with it.",
+    "image": "82.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, teal, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

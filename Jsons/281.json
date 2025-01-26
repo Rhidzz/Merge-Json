@@ -1,0 +1,15 @@
+{
+    "name": "282. From the Depths of My Heart",
+    "description": "From the depths of my heart, I give you everything I am. It's where my truest feelings reside, where my love for you is unfiltered and pure. From the depths of my heart, know that you are loved in a way that nothing else compares.",
+    "image": "282.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, teal, gray, dark green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

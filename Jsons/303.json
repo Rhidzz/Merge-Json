@@ -1,0 +1,15 @@
+{
+    "name": "304. Through My Eyes",
+    "description": "Through my eyes, the world is different sometimes more challenging, but always with its own kind of beauty. Being differently-abled means seeing things from a unique perspective, where every small victory feels huge. Through my eyes, I see the world as it is and as it could be, and that vision makes me stronger every day.",
+    "image": "304.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, teal, light purple, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

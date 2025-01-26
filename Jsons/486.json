@@ -1,0 +1,15 @@
+{
+    "name": "487. A World of Acceptance",
+    "description": "I believe in a world where acceptance is the foundation of everything. When we choose to embrace each other for who we truly are, we create space for growth, understanding, and love. A world of acceptance starts with me, accepting myself fully and embracing others without judgment.",
+    "image": "487.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, pink, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

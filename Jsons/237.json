@@ -1,0 +1,15 @@
+{
+    "name": "238. Holding on to What Matters",
+    "description": "Through the noise of the world, I'm holding on to what truly matters you and me. We've been through so much, but at the end of it all, you are the constant I can't let go of. Holding on to what matters means cherishing every moment, every breath, with you.",
+    "image": "238.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, yellow, green, pink, white, dark green, teal, blue, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "555. No Stopping From Living",
+    "description": "As an earth angel, my purpose is to spread love, light, and healing wherever I go. No stopping from living means embracing my divine mission, pushing through obstacles with grace, and sharing my light with those who need it most.",
+    "image": "555.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

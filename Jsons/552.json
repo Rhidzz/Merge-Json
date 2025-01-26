@@ -1,0 +1,15 @@
+{
+    "name": "553. Awakening to Possibility",
+    "description": "I am awakening to the endless possibilities that lie before me, realizing that I have the power to create the life I want. Every day is a new opportunity, a chance to grow, explore, and discover. Awakening to possibility means letting go of fear and stepping into the unknown with hope and excitement.",
+    "image": "553.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

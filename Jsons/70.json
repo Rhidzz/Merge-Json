@@ -1,0 +1,15 @@
+{
+    "name": "71. Can't Stop Thinking of You",
+    "description": "Every thought I have, every moment I spend, somehow leads back to you. It's not something I can control, nor would I want to. I can't stop thinking of you, and it feels like the most beautiful thing.",
+    "image": "71.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, teal, yellow, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

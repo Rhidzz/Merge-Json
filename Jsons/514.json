@@ -1,0 +1,15 @@
+{
+    "name": "515. In Perfect Harmony with Myself",
+    "description": "There's a peace that comes when I finally stop fighting myself, when I embrace all parts of who I am. Living in perfect harmony with myself means accepting my flaws and celebrating my strengths, understanding that both are essential to who I am. It's not about perfection; it's about finding balance and contentment in simply being me.",
+    "image": "515.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

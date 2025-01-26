@@ -1,0 +1,15 @@
+{
+    "name": "401. A Different Kind of Beauty",
+    "description": "I've learned that beauty isn't always what the world expects to see it's found in the strength I carry, the journey I walk, and the unique way I experience the world. My beauty doesn't fit into the typical mold, but it's no less real. A different kind of beauty is the one that doesn't seek validation it simply exists.",
+    "image": "401.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

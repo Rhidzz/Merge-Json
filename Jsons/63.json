@@ -1,0 +1,15 @@
+{
+    "name": "64. Angel In The Light",
+    "description": "I stand as an angel in the light, shining with love, compassion, and grace. In every moment, I embrace my purpose to guide and uplift, radiating warmth to those who need it most.",
+    "image": "64.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "magenta, white, blue, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

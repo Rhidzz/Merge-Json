@@ -1,0 +1,15 @@
+{
+    "name": "237. The Power of Now",
+    "description": "Now is all we have, and it's in this moment that everything matters. We don't need to look back or worry about the future; the power of now lies in living fully in what we share, right here, right now. Let's make this moment count, together.",
+    "image": "237.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, yellow, white, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

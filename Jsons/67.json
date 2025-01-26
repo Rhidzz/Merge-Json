@@ -1,0 +1,15 @@
+{
+    "name": "68. Your Smile Brings Calm",
+    "description": "Your smile is my peace in the chaos of life. It's simple, but it grounds me, like everything is going to be okay just because you're here. Your smile brings calm, and it's everything I need.",
+    "image": "68.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, black, green, blue, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

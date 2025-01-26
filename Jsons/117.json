@@ -1,0 +1,15 @@
+{
+    "name": "118. Together We Shine",
+    "description": "When we're together, we light up the world. No darkness can diminish the brightness of what we share. Together, we shine with a love that's stronger than anything we've faced.",
+    "image": "118.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, tan, orange, yellow, teal, green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

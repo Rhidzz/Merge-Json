@@ -1,0 +1,15 @@
+{
+    "name": "422. Courage in the Unknown",
+    "description": "The unknown can be scary, but I've learned to walk through it with courage. Every step I take into uncertainty is an act of bravery, because I know that with every unknown comes the opportunity to grow, to learn, and to become more of who I'm meant to be.",
+    "image": "422.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

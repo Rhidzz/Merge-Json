@@ -1,0 +1,15 @@
+{
+    "name": "98. Paradise Is Devine",
+    "description": "In the quiet corners of the world, we find our paradise not in the perfection, but in the peace that comes with love. Paradise isn't a place, it's a feeling, a connection so deep it feels divine. When we're together, I know we've found a piece of heaven right here on Earth.",
+    "image": "98.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "magenta, red, purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

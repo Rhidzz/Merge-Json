@@ -1,0 +1,15 @@
+{
+    "name": "431. Vulnerable, Yet Whole",
+    "description": "To be vulnerable is to allow myself to feel everything joy, pain, love, and fear. But I've learned that vulnerability doesn't break me; it makes me whole. I am vulnerable, but I am not weak; I am strong, capable, and beautifully imperfect in all my rawness.",
+    "image": "431.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, teal, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

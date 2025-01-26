@@ -1,0 +1,15 @@
+{
+    "name": "532. Celebrating the Unseen",
+    "description": "There's beauty in the unseen, in the quiet strength that doesn't always make headlines but makes a difference. I celebrate those parts of me that may go unnoticed by the world, but are valued deeply within myself. Celebrating the unseen is honoring everything that makes me whole, even when it's not visible to others.",
+    "image": "532.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

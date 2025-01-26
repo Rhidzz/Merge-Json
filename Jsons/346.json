@@ -1,0 +1,15 @@
+{
+    "name": "347. A Whispered Heart",
+    "description": "My heart speaks in whispers quiet, gentle, but full of emotion. Living with a disability means my heart sometimes feels too loud for the world to hear, but it still beats with love, with hope, and with courage. A whispered heart is one that feels everything, but doesn't always need to shout to be heard.",
+    "image": "347.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

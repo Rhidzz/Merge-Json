@@ -1,0 +1,15 @@
+{
+    "name": "4. Have Mercy",
+    "description": "Life doesn't always play fair, and the weight of it all can feel like too much. But even in the hardest moments, I find myself asking not for perfection, just for grace. Have mercy, because I'm giving it everything I've got.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, green, teal, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "squiggles"
+        }
+    ]
+}

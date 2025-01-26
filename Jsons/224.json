@@ -1,0 +1,15 @@
+{
+    "name": "225. Time To Show Your Worth",
+    "description": "It's time to stop hiding, stop doubting, and show the world what we're made of. We've always had it in us now it's time to prove it. This is our moment, and it's time to show the world our true worth.",
+    "image": "225.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, black, white, red, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

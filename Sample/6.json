@@ -1,0 +1,15 @@
+{
+    "name": "7. 7. Meet Me Where The Stars Are Shining",
+    "description": "Let's escape to a place where the noise of the world fades, and it's just you and me under the endless sky. Meet me where the stars are shining, where every twinkle feels like a promise, and we can dream together of a love that's boundless, eternal, and uniquely ours.",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, white, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

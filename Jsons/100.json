@@ -1,0 +1,15 @@
+{
+    "name": "101. Never Get An Escape",
+    "description": "No matter how far I run, I can never escape what's inside my thoughts, my fears, and my dreams. But I've learned that it's not about escaping; it's about accepting what's inside and finding peace with it. There's no need to escape when I learn to live with the things that once held me captive.",
+    "image": "101.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, pink, white, gray, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, silver, gems"
+        }
+    ]
+}

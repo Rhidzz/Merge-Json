@@ -1,0 +1,15 @@
+{
+    "name": "444. A Mind That Thinks Differently",
+    "description": "My mind doesn't work like everyone else's it moves at its own pace, with its own rhythm, and sometimes, that's hard for others to understand. But this mind of mine is a gift, one that allows me to see the world in ways most don't. A mind that thinks differently is a mind that creates, innovates, and thrives in its own space.",
+    "image": "444.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

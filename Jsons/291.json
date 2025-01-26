@@ -1,0 +1,15 @@
+{
+    "name": "292. Mind's Prison",
+    "description": "There are times when my mind feels like a prison trapped by my own thoughts, my own doubts. It's a struggle to break free, but I know that the real battle isn't against the world it's learning to accept myself. I'm finding the key to my freedom, one step at a time.",
+    "image": "292.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, teal, pink, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

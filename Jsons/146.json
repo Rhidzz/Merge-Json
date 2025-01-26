@@ -1,0 +1,15 @@
+{
+    "name": "147. Longing for You",
+    "description": "Even in the quiet moments, I find myself longing for you your touch, your smile, your presence. There's a part of me that is always with you, even when we're apart. Longing for you is a love that only grows stronger with time.",
+    "image": "147.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Yellow, red, white black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "247. Chasing Real Desires",
+    "description": "In the past, I chased things that didn't matter, things that only left me feeling empty. But now, I'm chasing real desires what truly makes me feel alive, what makes me feel whole. You are the desire I've always needed, the one thing that fills every part of me.",
+    "image": "247.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, magenta, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

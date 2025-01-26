@@ -1,0 +1,15 @@
+{
+    "name": "271. In the Depths of Desire",
+    "description": "Desire runs deep, pulling us closer with every passing moment. It's not just about physical attraction it's the emotional pull, the connection that keeps growing stronger. In the depths of desire, we find a love that cannot be ignored, that demands to be felt.",
+    "image": "271.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, orange, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "75. Destiny Awaits",
+    "description": "Some things feel destined, like they were meant to find their way to you. You are the beauty in being heaven-sent something rare, something precious, something that makes the world feel a little brighter.",
+    "image": "75.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, gold, pink, white, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, foil"
+        }
+    ]
+}

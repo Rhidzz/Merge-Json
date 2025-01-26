@@ -1,0 +1,15 @@
+{
+    "name": "107. Echoes of Your Heart",
+    "description": "Every beat of your heart sends ripples through my soul, echoes of a love that resonates even in the quietest moments. Through the distance, through the pain, your love still calls to me. I hear it in the silence, and it pulls me closer every time.\n\n",
+    "image": "107.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, magenta, white, green, black, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

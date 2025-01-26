@@ -1,0 +1,15 @@
+{
+    "name": "338. Pieces of My Soul",
+    "description": "I've given pieces of my soul to the journey, to the struggles, and to the love I've found along the way. Living with a disability means that every part of me is shaped by what I've been through, and though I've been broken, I am also whole. These pieces are mine, and together, they form a strength that only I understand.",
+    "image": "338.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, purple, pink, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

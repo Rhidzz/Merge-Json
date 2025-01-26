@@ -1,0 +1,15 @@
+{
+    "name": "52. The Power of Self-Love",
+    "description": "Before I can give my heart to anyone else, I had to learn to give it to myself. The power of self-love isn't just about accepting who I am, it's about embracing my flaws, my strengths, and everything that makes me whole. It's the foundation that makes every other love possible.",
+    "image": "52.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, green, black, teal, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

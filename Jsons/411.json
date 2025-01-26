@@ -1,0 +1,15 @@
+{
+    "name": "412. Through My Own Eyes",
+    "description": "When I look at the world through my own eyes, I see things differently. I don't need to conform to the way others see things; I've learned to trust my own perspective. Through my own eyes, I find clarity, purpose, and a sense of self that no one can take away.",
+    "image": "412.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, blue, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

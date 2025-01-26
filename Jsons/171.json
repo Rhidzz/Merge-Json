@@ -1,0 +1,15 @@
+{
+    "name": "172. In Your Heart",
+    "description": "Your heart holds all of me, every piece, every part. It's where I've found my home, my peace, and my forever. In your heart, I've found a love that will never fade, a place where I am always welcome.",
+    "image": "172.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, orange, blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

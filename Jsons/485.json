@@ -1,0 +1,15 @@
+{
+    "name": "486. Strength in My Difference",
+    "description": "My difference isn't something I hide it's what makes me strong. It's through my unique experiences and perspective that I've gained resilience and wisdom. Strength in my difference means standing tall in who I am and knowing that my individuality is my greatest asset.",
+    "image": "486.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, salmon, teal, pink, blue, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

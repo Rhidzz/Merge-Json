@@ -1,0 +1,15 @@
+{
+    "name": "123. Lost in Your Love",
+    "description": "Sometimes, I feel like I'm lost in the depth of your love, swallowed whole by the intensity of what we share. It's a beautiful kind of loss, one that makes me feel found. In your love, I've found my place, my purpose, and my peace.",
+    "image": "123.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, green, white, orange, teal,"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

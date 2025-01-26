@@ -1,0 +1,15 @@
+{
+    "name": "327. Echoes of Empathy",
+    "description": "Empathy runs deep within me, echoing through every experience, every connection. It's in the way I feel for others, the way I understand pain, the way I love with my whole heart. The echoes of empathy remind me that despite the struggles, I am never truly alone.",
+    "image": "327.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

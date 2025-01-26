@@ -1,0 +1,15 @@
+{
+    "name": "159. In the Night with You",
+    "description": "In the stillness of the night, when the world is quiet, all I need is to be with you. The darkness fades, and in your presence, I find warmth, peace, and the comfort I've been searching for. In the night with you, everything feels right, and nothing else matters.",
+    "image": "159.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, white, pink, green, black, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "432. In a World of Labels",
+    "description": "In a world that loves to label, I've learned that my worth can't be defined by what others put on me. I am not a label, I am an experience, a journey, a story that is uniquely mine. In a world of labels, I've learned to define myself, to live beyond what anyone else might say.",
+    "image": "432.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, salmon, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

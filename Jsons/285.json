@@ -1,0 +1,15 @@
+{
+    "name": "286. Trapped in Thought",
+    "description": "Sometimes, I feel like I'm trapped in my own head, thoughts racing, spinning in circles. The world moves faster than I can keep up with, and I wonder if anyone truly understands what's going on inside. But even when I feel stuck, I know that I'm figuring it all out, one thought at a time.",
+    "image": "286.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, gray, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

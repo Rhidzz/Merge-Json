@@ -1,0 +1,15 @@
+{
+    "name": "203. Your Love is My Guide",
+    "description": "Your love is the compass that guides me through every uncertainty, every fear. It's the light in the darkness, the direction when I feel lost. With you, I know I'll always find my way.",
+    "image": "203.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, green, black, purple, red, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

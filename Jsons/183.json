@@ -1,0 +1,15 @@
+{
+    "name": "184. The Essence of You",
+    "description": "Everything about you captivates me the way you move, the way you speak, and the way you make me feel. It's the essence of you that draws me in, the quiet strength you possess and the warmth of your heart. In the essence of you, I find the love I've been searching for my whole life.",
+    "image": "184.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, white, pink, gold, dark green, foil"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

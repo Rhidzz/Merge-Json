@@ -1,0 +1,15 @@
+{
+    "name": "67. You Hold Power Over Me",
+    "description": "You have a hold on me that I can't explain. It's not control it's something deeper. The way you make me feel alive, seen, and understood, all at once. You hold power over me, and I wouldn't want it any other way.",
+    "image": "67.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, purple, yellow, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, glitter"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "548. A Life Untamed",
+    "description": "I am untamed, refusing to be held back by the expectations of others or the world's limitations. My life is mine to shape, to live in the way that feels right for me. A life untamed is a life of freedom, of passion, and of embracing everything that makes me unique.",
+    "image": "548.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

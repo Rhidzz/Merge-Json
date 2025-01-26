@@ -1,0 +1,15 @@
+{
+    "name": "12. Maybe We Can Last Forever",
+    "description": "In a world that feels so fleeting, you make me believe in something lasting. Maybe we can defy the odds, hold on through every twist and turn, and create a love that stands the test of time. Maybe we can last forever because with you, forever doesn't feel so far away.",
+    "image": "12.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, yellow, purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

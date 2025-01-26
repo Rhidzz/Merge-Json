@@ -1,0 +1,15 @@
+{
+    "name": "276. Always in Your Heart",
+    "description": "No matter where life takes us, I know I'll always be in your heart. It's a place where my love for you resides, safe and untouched by time. Always in your heart, I find my home, knowing that I'm cherished even when we're apart.",
+    "image": "276.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, magenta, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

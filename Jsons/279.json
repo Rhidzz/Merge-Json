@@ -1,0 +1,15 @@
+{
+    "name": "280. Love's Quiet Strength",
+    "description": "There's a quiet strength in love, one that doesn't need to shout or make noise. It's in the way we support each other, the way we stay by each other's side through thick and thin. Love's quiet strength is the foundation of everything we are, steady and unshakable.",
+    "image": "280.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, saturated"
+        }
+    ]
+}

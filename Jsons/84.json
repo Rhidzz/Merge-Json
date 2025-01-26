@@ -1,0 +1,15 @@
+{
+    "name": "85. I Try So Hard To Be Happy",
+    "description": "I put in the work, I fight for my joy, and I fight for my peace. I try so hard to be happy, even on the days when it feels like a struggle. But I know it's worth it, because I deserve to smile, just like everyone else.",
+    "image": "85.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, yellow, pink, white, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

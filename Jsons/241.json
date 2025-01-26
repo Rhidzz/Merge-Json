@@ -1,0 +1,15 @@
+{
+    "name": "242. No More Hiding",
+    "description": "For too long, I hid parts of myself, afraid to be seen for who I truly am. But now, I'm ready to stand in the light, fully myself, with no fear of judgment. No more hiding; I'm here, and I'm ready to be seen by you.",
+    "image": "242.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, yellow, green, black, lime green, turquoise, black, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, foil, spray paint"
+        }
+    ]
+}

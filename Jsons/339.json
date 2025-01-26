@@ -1,0 +1,15 @@
+{
+    "name": "340. Beneath My Thoughts",
+    "description": "Beneath all my thoughts lies a truth that only I know, a place where my heart and mind try to find peace. Being differently-abled means that my thoughts are always moving, always shifting, but beneath it all, I find a sense of calm that comes from simply existing. Beneath my thoughts, I find the quiet strength that keeps me moving.",
+    "image": "340.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, turquoise, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

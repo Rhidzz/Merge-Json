@@ -1,0 +1,15 @@
+{
+    "name": "423. Holding My Own",
+    "description": "I've learned to hold my own in a world that isn't always kind or understanding. Strength isn't about overpowering others it's about standing firm in who I am, no matter the challenges. Holding my own means believing in my worth, even when the world doesn't recognize it.",
+    "image": "423.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, blue, pink, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

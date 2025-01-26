@@ -1,0 +1,15 @@
+{
+    "name": "504. Embracing Every Part of Me",
+    "description": "I've learned that every part of me is worth loving the quiet, the loud, the strong, the broken. I don't need to hide anything about myself anymore. Embracing every part of me is the key to accepting who I am and giving myself the love I deserve.",
+    "image": "504.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, green, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

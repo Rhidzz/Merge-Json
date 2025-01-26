@@ -1,0 +1,15 @@
+{
+    "name": "150. In the Silence of Love",
+    "description": "Love doesn't always need words; sometimes it's in the silence where we feel it most. In the quiet, I hear your heart speak to mine, saying everything that needs to be said. In the silence of love, we find our truest connection.",
+    "image": "150.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pink, yellow, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

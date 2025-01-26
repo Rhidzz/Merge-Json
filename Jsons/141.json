@@ -1,0 +1,15 @@
+{
+    "name": "142. Intimate Rhythm",
+    "description": "There's a rhythm between us, a dance that only we understand. In every touch, every whisper, our bodies and hearts are in tune with each other. This intimate rhythm is the song that keeps us connected, no matter where life takes us.",
+    "image": "142.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, black, teal, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, drips"
+        }
+    ]
+}

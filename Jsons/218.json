@@ -1,0 +1,15 @@
+{
+    "name": "219. Heartbeat in the Dark",
+    "description": "Even when things are hard, even when the world is quiet, your heartbeat is my guide. It's in the dark that I feel closest to you, knowing that we're in this together. A heartbeat in the dark is the sound of love that never fades.",
+    "image": "219.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, dark green, red, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

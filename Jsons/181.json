@@ -1,0 +1,15 @@
+{
+    "name": "182. Heart's Desire",
+    "description": "You are my heart's desire, the one thing I've always wanted but never thought I'd have. Every piece of me longs for you, and in you, I find everything I've been searching for. My heart beats only for you, and there's nothing I need more than your love.",
+    "image": "182.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, red, white, yellow, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

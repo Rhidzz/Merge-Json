@@ -1,0 +1,15 @@
+{
+    "name": "94. Without Fear",
+    "description": "There's power in facing life without fear, in stepping into the unknown with open arms. The weight of uncertainty no longer holds me back; I've learned that fear is just a shadow that fades when I stand tall. Without fear, I embrace every challenge and grow with every step.",
+    "image": "94.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, yellow, white, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush stokes, glitter"
+        }
+    ]
+}

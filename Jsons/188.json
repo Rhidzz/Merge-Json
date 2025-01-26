@@ -1,0 +1,15 @@
+{
+    "name": "189. A Love So Deep",
+    "description": "This love we share runs deeper than words can describe, deeper than any ocean or mountain. It's a love that has weathered every storm, every challenge, and still, it grows stronger. A love so deep is a treasure that I'll carry with me forever.",
+    "image": "189.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, blue, pink, white, dark blue, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

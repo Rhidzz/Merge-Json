@@ -1,0 +1,15 @@
+{
+    "name": "148. The Beat of Our Souls",
+    "description": "Our souls are in perfect harmony, beating together as one. It's a rhythm that no one else can hear, but we both feel it deep inside. The beat of our souls is the sound of a love that will never end.",
+    "image": "148.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, orange, yellow, pink, black, white, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "gems, encaustic, brush strokes, drips"
+        }
+    ]
+}

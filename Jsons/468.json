@@ -1,0 +1,15 @@
+{
+    "name": "469. Unseen, but Unbreakable",
+    "description": "There are moments when I feel unseen, as if my struggles and strengths go unnoticed. But I've learned that being unseen doesn't mean I am invisible it means I'm stronger than most realize. Unseen, but unbreakable means standing tall, even when the world looks the other way.",
+    "image": "469.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

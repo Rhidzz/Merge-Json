@@ -1,0 +1,15 @@
+{
+    "name": "459. My Soul, My Story",
+    "description": "Every step I take is part of my soul's story, written through the challenges and triumphs that have shaped me. My story is mine, one that I own fully, embracing each chapter, no matter how difficult. My soul tells my truth, and it's a truth that I carry with pride, as I continue to write my journey.",
+    "image": "459.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

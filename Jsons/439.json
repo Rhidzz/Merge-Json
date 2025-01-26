@@ -1,0 +1,15 @@
+{
+    "name": "440. In the Light of My Differences",
+    "description": "Instead of hiding my differences, I've learned to step into the light of them. They are part of who I am, and they give me strength, purpose, and a unique perspective on the world. In the light of my differences, I find my power, my beauty, and my true self.",
+    "image": "440.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, orange, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

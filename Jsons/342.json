@@ -1,0 +1,15 @@
+{
+    "name": "343. Torn Between Two Worlds",
+    "description": "I'm often torn between the world I know and the one I wish I could be a part of. Living with a disability means existing in a space where I don't always fit, where I'm neither here nor there. But in this struggle, I find strength, knowing that I'm creating a world where I belong, regardless of the space I occupy.",
+    "image": "343.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, pink, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

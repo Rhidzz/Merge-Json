@@ -1,0 +1,15 @@
+{
+    "name": "272. When the World Falls Away",
+    "description": "When everything else falls away, it's just you and me, standing strong in a love that has withstood the test of time. In the quiet of those moments, I know that this is real that nothing can shake what we've built. When the world falls away, all that's left is us.",
+    "image": "272.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, orange, green, lime green, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

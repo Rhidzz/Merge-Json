@@ -1,0 +1,15 @@
+{
+    "name": "381. Mind Over Matter",
+    "description": "There are days when my mind fights against the limits my body faces, struggling to push through pain, doubt, and fatigue. But I've learned that it's mind over matter not because my body isn't important, but because my mind is where my true strength lies. I've discovered that no matter the struggle, my mind can push me further than I ever thought possible.",
+    "image": "381.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, red, white, gray, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, glitter"
+        }
+    ]
+}

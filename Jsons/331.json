@@ -1,0 +1,15 @@
+{
+    "name": "332. Fading in the Mind",
+    "description": "Some days, I feel like I'm fading in my own mind, lost in thoughts that feel too big to handle. Living with a disability means my mind doesn't always work the way others expect, and sometimes that leaves me feeling disconnected. But even when I feel like I'm fading, I know I'm still here, still fighting, still finding my way back.",
+    "image": "332.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

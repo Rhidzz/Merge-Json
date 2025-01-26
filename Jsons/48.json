@@ -1,0 +1,15 @@
+{
+    "name": "49. Be in Your Embrace",
+    "description": "There's a comfort in your arms that nothing else can match. In your embrace, I find a sense of peace, like I've finally found where I belong. It's where I feel safe, loved, and completely understood. To be in your embrace is where everything feels right.",
+    "image": "49.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, green, blue, white, orange, yellow, pruple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

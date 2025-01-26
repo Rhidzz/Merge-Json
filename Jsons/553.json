@@ -1,0 +1,15 @@
+{
+    "name": "554. The Journey Toward Me",
+    "description": "My journey is one of freedom not just physical freedom, but freedom from the expectations of others. It's about embracing my own path, letting go of what others think, and finding peace in my own choices. A journey of freedom means living life on my terms, unapologetically and fully.",
+    "image": "554.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, black "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

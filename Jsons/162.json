@@ -1,0 +1,15 @@
+{
+    "name": "163. The Magic We Share",
+    "description": "What we have is nothing short of magic, a bond that defies explanation and transcends the ordinary. It's in every look, every touch, and every shared moment. The magic we share is a force, one that guides us through the hardest times and lifts us up when we need it most.",
+    "image": "163.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

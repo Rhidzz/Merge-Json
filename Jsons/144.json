@@ -1,0 +1,15 @@
+{
+    "name": "145. Love That Lingers",
+    "description": "Some loves burn brightly and then fade, but the love we share lingers, staying with me long after we've parted. It's in every thought, every memory, every quiet moment. Love that lingers is a gift, and I carry it with me always.",
+    "image": "145.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pink, purple, white, black, green, turquoise, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

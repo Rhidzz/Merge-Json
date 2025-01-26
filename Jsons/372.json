@@ -1,0 +1,15 @@
+{
+    "name": "373. The Quiet Before the Storm",
+    "description": "There's a stillness before the storm, a quiet that feels heavy with what's about to come. I can feel it building emotions, thoughts, changes that I can't quite predict. The quiet before the storm is a reminder that even in uncertainty, I have the power to brace myself for whatever comes next.",
+    "image": "373.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

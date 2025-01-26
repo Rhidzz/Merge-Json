@@ -1,0 +1,15 @@
+{
+    "name": "273. Through Every Moment",
+    "description": "We've been through so much, and every moment has led us here, to this place of understanding and love. Through every high, every low, we've stood by each other. Through every moment, we've proven that we are stronger together than we ever could be apart.",
+    "image": "273.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, plastic, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "28. I'm Here Now",
+    "description": "I've traveled through storms, doubts, and fears to reach this moment. But now, standing here with you, nothing else matters. I'm here now fully, completely, and ready to embrace everything we're meant to be.",
+    "image": "28.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, red, blue, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "224. Nothing I Can Feel Inside",
+    "description": "There are moments when I feel empty, like something is missing, but then I remember you. Nothing I feel inside could ever take away the love you give me. With you, I am whole, no matter what else I might feel.",
+    "image": "224.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, magenta, purple, white, teal, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

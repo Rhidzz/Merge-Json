@@ -1,0 +1,15 @@
+{
+    "name": "260. Through the Storm, Together",
+    "description": "Life isn't always easy, and sometimes it feels like the storm is too much to bear. But with you, I know I can weather anything. Through the storm, together, we are unbreakable, and we'll come out stronger on the other side.",
+    "image": "260.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, white, red, black, white, gray, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

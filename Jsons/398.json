@@ -1,0 +1,15 @@
+{
+    "name": "399. Shaped by the Struggle",
+    "description": "Every struggle has shaped me, molding me into someone stronger, more resilient, and more capable of facing what comes next. It hasn't been easy, but I've learned that the struggle doesn't define me it refines me. Shaped by the struggle, I know I am more than the challenges I face; I am the strength I've gained from them.",
+    "image": "399.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, tan, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

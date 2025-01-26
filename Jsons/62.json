@@ -1,0 +1,15 @@
+{
+    "name": "63. The Silence Roars",
+    "description": "In the quiet, there's a noise that's louder than words an echo of all the things left unsaid, the emotions I can't express. The silence roars, filling the space with everything we're too afraid to confront.",
+    "image": "63.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, white, black, green, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

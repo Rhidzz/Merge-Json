@@ -1,0 +1,15 @@
+{
+    "name": "476. Alone, But Complete",
+    "description": "I've learned to be alone, but never incomplete. The world may try to convince me that I need others to feel whole, but I know my worth comes from within. Alone, but complete means finding peace in my own company, knowing that I am enough, just as I am.",
+    "image": "476.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

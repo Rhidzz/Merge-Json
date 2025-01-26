@@ -1,0 +1,15 @@
+{
+    "name": "534. A Future of Freedom",
+    "description": "The future is mine to create, and I'm choosing one that's filled with freedom the freedom to be me, to follow my passions, and to live authentically. With every choice I make, I build a future where I am free to explore, to grow, and to live without limits. A future of freedom is one where I live unapologetically and with purpose.",
+    "image": "534.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

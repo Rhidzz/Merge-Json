@@ -1,0 +1,15 @@
+{
+    "name": "342. Falling Into You",
+    "description": "When I'm with you, I feel like I'm falling falling into something real, something deep. There's a vulnerability that comes with loving and being loved, and it's in this fall that I find my courage. Falling into you doesn't mean losing myself; it means discovering a love that grounds me, even when everything else feels uncertain.",
+    "image": "342.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, turquoise, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

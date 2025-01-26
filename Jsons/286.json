@@ -1,0 +1,15 @@
+{
+    "name": "287. Stuck in My Head",
+    "description": "I get stuck in my head a lot thinking, overthinking, trying to make sense of it all. Being differently-abled means the world feels different to me, and sometimes, I struggle to find the words to express what's inside. But in my head, I find my peace, even if it's just for a moment.",
+    "image": "287.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, magenta, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

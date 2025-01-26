@@ -1,0 +1,15 @@
+{
+    "name": "174. Hold Me Forever",
+    "description": "Hold me forever, through every storm, every tear, every moment of doubt. In your arms, I find my peace, my strength, and my truth. To be held by you is to know that no matter what comes, we will face it together, always.",
+    "image": "174.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

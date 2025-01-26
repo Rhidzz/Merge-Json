@@ -1,0 +1,15 @@
+{
+    "name": "177. Infinite Love",
+    "description": "Our love stretches beyond what we can see, beyond time, beyond space. It's infinite, growing stronger with every challenge, every triumph. Infinite love is a gift, one that I will cherish for all of eternity.",
+    "image": "177.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, yellow, green, dark blue, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

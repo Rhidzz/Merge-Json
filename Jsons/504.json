@@ -1,0 +1,15 @@
+{
+    "name": "505. A Celebration of Me",
+    "description": "There's something beautiful about celebrating myself, about acknowledging the journey I've walked. Every challenge, every lesson, has shaped me into the person I am today. A celebration of me is not about being perfect, but about honoring the strength, the growth, and the love I carry.",
+    "image": "505.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

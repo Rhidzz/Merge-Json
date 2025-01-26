@@ -1,0 +1,15 @@
+{
+    "name": "500. Walking with Confidence",
+    "description": "There's something powerful in walking with confidence, even when the road ahead feels uncertain. Every step I take is a reminder that I belong here, that I am enough, and that I have something valuable to offer. Walking with confidence is not about being perfect; it's about embracing my truth with strength.",
+    "image": "500.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, yellow, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

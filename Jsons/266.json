@@ -1,0 +1,15 @@
+{
+    "name": "267. Let Your Love Speak",
+    "description": "There's no need for grand declarations when love speaks for itself. Let your love speak in your actions, your touches, your words when they matter most. In the quiet moments, let your love be louder than anything else, because that's all I need.",
+    "image": "267.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, green, black, tan, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "438. The Gift of Being Different",
+    "description": "Being different isn't a curse it's a gift. It's what sets me apart, gives me a unique perspective, and allows me to see the world in ways others might miss. The gift of being different is what makes me who I am, and I wouldn't trade it for anything.",
+    "image": "438.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, magenta, orange, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "61. The Language of My Body",
+    "description": "My body speaks in ways words never could through every touch, every movement, every quiet gesture. It tells the story of my strength, my vulnerability, my joy, and my pain. The language of my body is my truth, unspoken but always understood.",
+    "image": "61.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, blue, white, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

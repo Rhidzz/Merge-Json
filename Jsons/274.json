@@ -1,0 +1,15 @@
+{
+    "name": "275. Bound by Love",
+    "description": "Our love binds us together in a way nothing else ever could. It's a force that holds us close, through the tough times and the easy ones. Bound by love, we know that no matter where life leads, we'll always have each other.",
+    "image": "275.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

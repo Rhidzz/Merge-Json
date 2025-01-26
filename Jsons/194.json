@@ -1,0 +1,15 @@
+{
+    "name": "195. The Depths of Desire",
+    "description": "Desire is more than just a feeling; it's a force that pulls us deeper into each other. In the depths of desire, we find our truest selves, unguarded and whole. It's a love that burns, a longing that never ceases, and a passion that keeps us connected.",
+    "image": "195.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, yellow, blue, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

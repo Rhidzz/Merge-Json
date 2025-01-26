@@ -1,0 +1,15 @@
+{
+    "name": "95. How Deep Is Love",
+    "description": "Love isn't just a feeling, it's a force that pulls us into something deeper than we can comprehend. How deep is love? It's found in the moments we stand together, in the quiet when no words are needed, in the strength we give each other even in silence. Love runs deeper than the surface, touching places that can never be fully explained.",
+    "image": "95.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

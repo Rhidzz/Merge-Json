@@ -1,0 +1,15 @@
+{
+    "name": "199. Endless Nights Together",
+    "description": "Every night spent together feels like a gift, a moment suspended in time. We share our dreams, our fears, and our love, knowing that no matter what, we'll always have each other. Endless nights together are all I need to feel complete.\n",
+    "image": "199.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, white, tan, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "gems, brush strokes, drips"
+        }
+    ]
+}

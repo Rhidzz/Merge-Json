@@ -1,0 +1,15 @@
+{
+    "name": "310. Heart and Mind",
+    "description": "My heart and mind don't always agree. My heart wants to push forward, while my mind sometimes hesitates, held back by the fears and limitations of the world. But in that conflict, I've learned to listen to both, finding balance between what I feel and what I know.",
+    "image": "310.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

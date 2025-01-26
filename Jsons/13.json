@@ -1,0 +1,15 @@
+{
+    "name": "14. Lightning Bolts in my bones",
+    "description": "There's a spark inside me that's both pain and power, like lightning coursing through my veins. It's a reminder that even in the hardest moments, I'm alive, I'm feeling, and I'm fighting. The storm inside might shake me, but it also makes me stronger.",
+    "image": "14.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, yellow, green, white, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "192. In Your Love's Light",
+    "description": "Your love is the light that guides me, even when I feel lost. In the glow of your love, everything feels right, and nothing else matters. With every touch, every word, you illuminate my world, making me feel like I'm exactly where I'm supposed to be.",
+    "image": "192.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, orange, yellow, blue, black, white, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

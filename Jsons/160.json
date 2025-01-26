@@ -1,0 +1,15 @@
+{
+    "name": "161. My Heart Beats for You",
+    "description": "Every pulse, every rhythm, it's all for you. My heart beats for you, a constant reminder that you are the one I choose, the one I need. With each beat, I love you more, and with every moment, my heart only grows stronger for you.",
+    "image": "161.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, blue, dark blue, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

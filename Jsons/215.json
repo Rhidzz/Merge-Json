@@ -1,0 +1,15 @@
+{
+    "name": "216. All My Heart, All My Soul",
+    "description": "When I say I love you, I mean it with everything I am. All my heart, all my soul is yours there's nothing left for anyone else. I give you every part of me, because you're the only one who's ever truly seen me.",
+    "image": "216.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, blue, light blue, deep purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "foil, drips"
+        }
+    ]
+}

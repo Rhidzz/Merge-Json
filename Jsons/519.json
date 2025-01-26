@@ -1,0 +1,15 @@
+{
+    "name": "520. Creating My Own Future",
+    "description": "I am the architect of my own future, designing a life that reflects my values, my dreams, and my aspirations. No one else gets to dictate my path only I do. Creating my own future means stepping into the unknown with courage, trusting that I have everything I need to build the life I desire.",
+    "image": "520.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

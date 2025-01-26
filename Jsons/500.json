@@ -1,0 +1,15 @@
+{
+    "name": "501. The Courage to Be Me",
+    "description": "It takes courage to stand in my truth, to be who I really am without fear. There were times I hid parts of myself, unsure if the world would accept me, but now I see that being me is the only thing I need to be. The courage to be me is about knowing that I am worthy of love just as I am.",
+    "image": "501.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

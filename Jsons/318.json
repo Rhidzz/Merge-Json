@@ -1,0 +1,15 @@
+{
+    "name": "319. Inside the Storm",
+    "description": "Inside me, there's a storm that no one sees, a whirlwind of thoughts and emotions that sometimes feel too strong to handle. Living with a disability means navigating this internal chaos, learning to weather the storm and find calm in the eye of it. The storm may rage, but it doesn't control me; it shapes me, reminding me of my resilience.",
+    "image": "319.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, gems"
+        }
+    ]
+}

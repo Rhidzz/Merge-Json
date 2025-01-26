@@ -1,0 +1,15 @@
+{
+    "name": "494. A Soul at Peace",
+    "description": "My soul has found peace in embracing who I am, in accepting my journey and trusting the process. There are moments of chaos, but deep within, I know that peace resides in my heart. A soul at peace is one that is free from fear, free from judgment, and rooted in self-love.",
+    "image": "494.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, salmon, teal, pink, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

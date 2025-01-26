@@ -1,0 +1,15 @@
+{
+    "name": "245. Fearing Nothing but Losing You",
+    "description": "I've faced so much in life, but there's one thing I fear more than anything losing you. Your love has become my anchor, and the thought of being without it is the only fear that holds me. I fear nothing but the possibility of losing the one person who has changed my world.",
+    "image": "245.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, orange, pink, black, blue, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

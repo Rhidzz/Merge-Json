@@ -1,0 +1,15 @@
+{
+    "name": "288. Waves of Emotion",
+    "description": "Emotion comes in waves some days, it's a calm ocean, other days, it's a storm. Being in my shoes means feeling things deeply, sometimes more than I can handle. But those waves make me who I am they teach me that I can ride them and still stand strong.",
+    "image": "288.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, black, gray, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

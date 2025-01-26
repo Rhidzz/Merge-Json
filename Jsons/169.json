@@ -1,0 +1,15 @@
+{
+    "name": "170. Together We Dream",
+    "description": "In each other, we find the space to dream freely, to build a future together that's full of hope and possibility. We share our visions, our hopes, and our plans, and in each dream, I see us growing stronger. Together, we dream of a love that lasts beyond this lifetime.",
+    "image": "170.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

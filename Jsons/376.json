@@ -1,0 +1,15 @@
+{
+    "name": "377. A Mind Unraveled",
+    "description": "My mind sometimes feels unraveled, like threads of thoughts and worries pulled too thin. The world can be overwhelming, and trying to make sense of it all feels impossible. But even when I'm unraveled, I know I'm still here, still whole, and slowly piecing everything back together.",
+    "image": "377.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple, teal, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

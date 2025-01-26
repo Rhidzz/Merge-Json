@@ -1,0 +1,15 @@
+{
+    "name": "193. All I Want is You",
+    "description": "In a world full of distractions, all I want is you. Every moment, every thought, leads me back to you the one I need, the one I've always wanted. Your love is everything I've been searching for, and now that I've found you, I'll never let you go.",
+    "image": "193.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

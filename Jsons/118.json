@@ -1,0 +1,15 @@
+{
+    "name": "119. Love's Rhythm",
+    "description": "Love has its own rhythm, its own beat, and we find ourselves moving to it naturally. With every touch, every glance, we fall into sync. This is the rhythm of our hearts, steady and unyielding.",
+    "image": "119.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, pink, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, glitter"
+        }
+    ]
+}

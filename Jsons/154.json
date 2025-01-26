@@ -1,0 +1,15 @@
+{
+    "name": "155. Surrender to You",
+    "description": "In your arms, I find the peace I've been searching for, and with each breath, I surrender to you. No walls, no hesitation just the trust that what we have is real. Surrender to you is not weakness; it's the strength to be vulnerable and open.",
+    "image": "155.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Pink, purple, yellow, black, white, gold, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

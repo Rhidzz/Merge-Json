@@ -1,0 +1,15 @@
+{
+    "name": "302. A Heart That Feels",
+    "description": "My heart feels deeply, maybe more than it should at times, but that's who I am. Being disabled means living with a heart that's always open, always loving, always feeling. A heart that feels is a heart that truly lives, and I wouldn't change that for anything.",
+    "image": "302.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, turquoise, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

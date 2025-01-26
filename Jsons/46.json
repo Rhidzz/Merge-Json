@@ -1,0 +1,15 @@
+{
+    "name": "47. I'll Go the Extra Mile for You",
+    "description": "Through every challenge, every obstacle, I'll always go the extra mile for you. No road is too long, no effort too great when it comes to showing you how much you mean to me. Because when it's real, there's nothing I won't do.",
+    "image": "47.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, glitter"
+        }
+    ]
+}

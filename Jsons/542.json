@@ -1,0 +1,15 @@
+{
+    "name": "543. Grace in My Differences",
+    "description": "My differences are not a burden, but a gift. They give me a unique perspective, a deeper understanding of myself and the world. Grace in my differences means accepting every part of who I am, knowing that they make me stronger and more compassionate.",
+    "image": "543.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "540. Letting My True Self Soar",
+    "description": "For so long, I kept parts of myself hidden, afraid to let the world see the real me. But now, I am letting my true self soar free from fear, free from judgment. Letting my true self soar means trusting that I am worthy of being seen and embraced exactly as I am.",
+    "image": "540.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

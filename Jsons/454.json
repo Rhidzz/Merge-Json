@@ -1,0 +1,15 @@
+{
+    "name": "455. Vulnerable Yet Unstoppable",
+    "description": "I am vulnerable, yes, but I am also unstoppable. My vulnerability doesn't make me weak it gives me the courage to keep going, even when it feels impossible. Vulnerable yet unstoppable is the strength to keep moving forward, embracing all that I am and all that I'm becoming.",
+    "image": "455.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

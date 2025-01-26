@@ -1,0 +1,15 @@
+{
+    "name": "269. Trust in the Unknown",
+    "description": "We may not know what lies ahead, but I trust in us, in the love we share, and in the unknown. Life is full of uncertainty, but as long as we face it together, I know we'll be okay. Trust in the unknown means knowing that we have each other through everything.",
+    "image": "269.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, pink, white, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

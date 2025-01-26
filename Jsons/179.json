@@ -1,0 +1,15 @@
+{
+    "name": "180. In the Depths of Us",
+    "description": "We've been through so much, and yet, in the depths of us, I see a love that has only grown stronger. There are parts of me, parts of you, that no one else will ever understand, but it's in those depths that we find our truth. In the depth of us, we are infinite, bound by something deeper than the surface.",
+    "image": "180.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, black, pink, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

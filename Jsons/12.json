@@ -1,0 +1,15 @@
+{
+    "name": "13. You Watch and I'm Exposed",
+    "description": "When your eyes are on me, I feel stripped down to my soul. There's nowhere to hide, no way to shield the parts of me I try to keep tucked away. But somehow, in your gaze, I don't feel judged I feel seen, understood, and loved for everything I am.",
+    "image": "13.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, orange, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

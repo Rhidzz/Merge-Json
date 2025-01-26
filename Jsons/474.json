@@ -1,0 +1,15 @@
+{
+    "name": "475. An Outcast, Unbroken",
+    "description": "I may be an outcast, but I am unbroken. The world doesn't always accept me, but that doesn't define my worth. Being an outcast has given me the strength to rise above, to stand on my own, and to create my own path.",
+    "image": "475.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, green, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

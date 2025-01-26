@@ -1,0 +1,15 @@
+{
+    "name": "427. Shifting the Narrative",
+    "description": "The narrative the world has for me is not mine to follow. I'm shifting the story, rewriting it to reflect who I truly am, not who others expect me to be. Every day, I'm taking control of my narrative, making it one of strength, individuality, and self-empowerment.",
+    "image": "427.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, teal, white, dark green, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

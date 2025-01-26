@@ -1,0 +1,15 @@
+{
+    "name": "335. The Sound of Silence",
+    "description": "There's a kind of peace in the silence, but also a heaviness that lingers, like my thoughts have nowhere else to go. Living with a disability sometimes means facing the world without words, feeling misunderstood. The sound of silence isn't empty it's full of everything I can't always say, a quiet storm inside me.",
+    "image": "335.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, gems"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "330. Emotional Tides",
+    "description": "My emotions come and go like the tide some days, they crash, others they gently roll in. Living with a disability means feeling things more intensely, riding waves of joy, sadness, fear, and love. But I've learned that no matter the tide, I can survive it, grow from it, and find my way back to calm.",
+    "image": "330.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

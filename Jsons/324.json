@@ -1,0 +1,15 @@
+{
+    "name": "325. Fractured Self",
+    "description": "I've felt like a fractured version of myself at times broken by the world, by the struggles, by the things I can't control. But I've learned that these fractures don't define me they make me who I am, unique and stronger for having faced them. The fractured self is just a part of the whole, and I am still whole.",
+    "image": "325.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

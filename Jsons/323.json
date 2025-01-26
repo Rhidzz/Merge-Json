@@ -1,0 +1,15 @@
+{
+    "name": "324. Carried Away by Thought",
+    "description": "My thoughts often carry me away, pulling me into a world of reflection, of dreams, of worries. Being differently-abled means my mind moves at its own pace, sometimes faster than I can keep up with. But in these thoughts, I find the clarity I need, the answers I've been searching for, even if they come in waves.",
+    "image": "324.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, gray, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

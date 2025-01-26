@@ -1,0 +1,15 @@
+{
+    "name": "441. Unique and Untamed",
+    "description": "I've always been unique, and I've learned to embrace it, untamed and unapologetic. The world might try to put me in a box, but I'm not meant to be contained. Unique and untamed means living on my own terms, embracing the wildness within me that refuses to conform.",
+    "image": "441.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, gray, blue, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

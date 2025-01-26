@@ -1,0 +1,15 @@
+{
+    "name": "293. Inside My Heart",
+    "description": "Inside my heart is where everything matters the love, the pain, the joy, and everything in between. Being disabled means I carry more emotions than I sometimes know what to do with, but that's what makes me real. Inside my heart is where I'm truly myself, and I wouldn't trade that for anything.",
+    "image": "293.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

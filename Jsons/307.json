@@ -1,0 +1,15 @@
+{
+    "name": "308. Wandering Soul",
+    "description": "Sometimes, I feel like a wandering soul, searching for my place in a world that doesn't always understand me. Living with a disability means navigating uncharted territory, learning to carve out my own path. But as I wander, I find new strength, new purpose, and a new way to define who I am.",
+    "image": "308.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

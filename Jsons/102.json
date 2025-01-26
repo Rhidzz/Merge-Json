@@ -1,0 +1,15 @@
+{
+    "name": "103. Self Love is Powerful",
+    "description": "Self-love isn't just a feeling, it's a practice, a choice I make every day to honor who I am. It's not about perfection, but about accepting myself as I am flaws, scars, and all. Self-love is powerful because when I truly love myself, I open the door for all other love to flow freely.",
+    "image": "103.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, magenta, white, yellow, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, gems, foil"
+        }
+    ]
+}

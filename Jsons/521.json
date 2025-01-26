@@ -1,0 +1,15 @@
+{
+    "name": "522. Thriving in My Own Rhythm",
+    "description": "I've learned that I don't have to follow the beat that others set for me. I thrive when I follow my own rhythm, moving at my own pace, and trusting that my journey is just as important. Thriving in my own rhythm means embracing who I am and the pace that works for me, without trying to keep up with anyone else.",
+    "image": "522.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, black, lime green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

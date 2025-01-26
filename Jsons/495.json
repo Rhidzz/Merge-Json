@@ -1,0 +1,15 @@
+{
+    "name": "496. Thriving in My Own Skin",
+    "description": "I've learned to thrive in my own skin, no longer wishing to be different but fully accepting and celebrating who I am. My body, my mind, my spirit they all belong together, and in that unity, I find strength. Thriving in my own skin means living boldly, unapologetically, and embracing every part of myself.",
+    "image": "496.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

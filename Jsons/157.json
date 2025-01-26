@@ -1,0 +1,15 @@
+{
+    "name": "158. Love's Sweet Glow",
+    "description": "Love shines with a sweetness that nothing else can compare to. It's the glow that lights up the darkest nights, the warmth that holds us close even when we're apart. In love's sweet glow, everything feels possible, and every moment feels like a blessing.",
+    "image": "158.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, white, black, magenta, yellow, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

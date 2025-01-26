@@ -1,0 +1,15 @@
+{
+    "name": "426. Quietly Unique",
+    "description": "I don't need to shout to be heard. My uniqueness is quiet, subtle, but undeniable. It's in the way I see the world, in the way I move through life different, yet strong. Quietly unique is how I live, embracing every part of myself without needing validation from anyone else.",
+    "image": "426.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, green, gray, green, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

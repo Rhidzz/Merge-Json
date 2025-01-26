@@ -1,0 +1,15 @@
+{
+    "name": "301. Voices in the Silence",
+    "description": "In the silence, I hear voices my own, my dreams, my hopes. Living with a disability often means I'm alone in my thoughts, but those voices keep me going. The silence speaks volumes, and in it, I find the strength to keep moving forward.",
+    "image": "301.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, dark blue, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "32. Love Me Like There's No Tomorrow",
+    "description": "Hold me close, like this moment is all we'll ever have. Kiss me with the kind of passion that leaves no room for regret. Love me like there's no tomorrow because right now, with you, forever feels possible.",
+    "image": "32.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, magenta, blue, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

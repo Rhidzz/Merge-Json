@@ -1,0 +1,15 @@
+{
+    "name": "311. Caught in a Dream",
+    "description": "Sometimes, I feel caught in a dream, where everything feels surreal and out of my control. The world around me isn't always kind to those of us who are differently-abled, but in this dream, I find moments of clarity and peace. Caught in a dream, I learn to embrace who I am, even when it doesn't feel like reality.",
+    "image": "311.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, tan, salmon, brown, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

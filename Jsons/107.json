@@ -1,0 +1,15 @@
+{
+    "name": "108. Fading Touch",
+    "description": "The warmth of your touch once lingered, but now it fades, like a memory slipping through my fingers. It's a reminder that nothing stays the same, and yet the love we shared remains etched in my heart. Even as it fades, it's never forgotten.",
+    "image": "108.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, turquoise, silver"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

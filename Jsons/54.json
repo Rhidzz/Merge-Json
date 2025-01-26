@@ -1,0 +1,15 @@
+{
+    "name": "55. Lightning Sparks Within Me",
+    "description": "Every time I think of you, it's like a spark of electricity runs through me unexpected, powerful, and impossible to ignore. Lightning sparks within me, reminding me of the intensity of what we share, the energy that keeps me alive with every thought of you.",
+    "image": "55.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, green, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

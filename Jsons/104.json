@@ -1,0 +1,15 @@
+{
+    "name": "105. In My Mind",
+    "description": "In my mind, I navigate a world that sometimes feels too loud, too fast, and not made for me. But within that space, I find clarity and comfort, a place where I can shape my reality to fit my needs. In my mind, I discover the power to overcome, to adapt, and to thrive in a world that often overlooks me.\n\n",
+    "image": "105.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, gray, white, brown"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

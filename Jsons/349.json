@@ -1,0 +1,15 @@
+{
+    "name": "350. Voices in the Quiet",
+    "description": "In the quiet, I hear voices not just my own, but the echoes of everything I've felt, everything I've experienced. Living with a disability means that the quiet moments are often the loudest, filled with emotions and thoughts that need to be understood. The voices in the quiet remind me that my experience matters, even when no one else hears it.",
+    "image": "350.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, blue, red, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

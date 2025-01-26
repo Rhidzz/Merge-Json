@@ -1,0 +1,15 @@
+{
+    "name": "405. Beyond the Ordinary",
+    "description": "I don't fit into the ordinary, and I've stopped trying to. The way I experience life is anything but typical, and I've come to realize that's what makes it extraordinary. Beyond the ordinary lies a space where I can create, grow, and thrive in my own unique way.",
+    "image": "405.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

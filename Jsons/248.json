@@ -1,0 +1,15 @@
+{
+    "name": "249. Together, We Find Our Way",
+    "description": "There's no map, no blueprint, but together, we're finding our way. Through every twist and turn, every challenge, we navigate life hand in hand. Together, we find our way, because no matter the path, we are stronger together.",
+    "image": "249.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, teal, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

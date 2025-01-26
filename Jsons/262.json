@@ -1,0 +1,15 @@
+{
+    "name": "263. A Love That Transcends",
+    "description": "Our love isn't bound by time or space; it transcends everything. It's deeper than any challenge, stronger than any distance. A love that transcends is the kind that stands the test of time, growing with us as we grow together.",
+    "image": "263.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, magenta, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

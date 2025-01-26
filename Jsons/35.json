@@ -1,0 +1,15 @@
+{
+    "name": "36. Vibe Check ",
+    "description": "Sometimes, all it takes is a moment to feel the energy shift. A look, a smile, a vibe that speaks louder than words. So here's a vibe check are we on the same frequency? Because when we align, everything just clicks.",
+    "image": "36.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, white, gray, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "531. A Heart Unchained",
+    "description": "My heart is unchained, free to love, to feel, and to grow without fear. For so long, I held myself back, afraid of what others might think, but now, I've set my heart free. A heart unchained means embracing vulnerability, knowing that love and authenticity are the truest forms of strength.",
+    "image": "531.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "27. Your Smile Is Peaceful",
+    "description": "In a world that feels so heavy, your smile is my calm. It's a quiet reminder that there's still beauty, still hope, and still love. With just one look, you make everything feel a little more possible.",
+    "image": "27.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, green, yellow, red, foil, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

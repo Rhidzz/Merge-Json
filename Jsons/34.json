@@ -1,0 +1,15 @@
+{
+    "name": "35. Speaking from the Soul",
+    "description": "When words come straight from the heart, they carry a weight that nothing else can match. It's raw, it's real, it's everything I've held in for too long. Speaking from the soul isn't just about sharing thoughts it's about letting you see who I truly am, without fear or hesitation.",
+    "image": "35.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, pink, purple, green, turquoise, red, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

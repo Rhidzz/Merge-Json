@@ -1,0 +1,15 @@
+{
+    "name": "252. Finding My Strength",
+    "description": "Through every struggle, every setback, I've learned to find my strength not in perfection, but in the way I rise after I fall. Each day brings a new challenge, but with it comes the chance to become even stronger. Finding my strength means trusting in myself and what I've already overcome.",
+    "image": "252.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, white, black, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, drips"
+        }
+    ]
+}

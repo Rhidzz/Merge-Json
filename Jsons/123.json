@@ -1,0 +1,15 @@
+{
+    "name": "124. All I Need is You",
+    "description": "In a world that often feels overwhelming, all I need is you. Your presence is enough to calm my storms, to heal my wounds, and to remind me what really matters. With you, I have everything.",
+    "image": "124.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

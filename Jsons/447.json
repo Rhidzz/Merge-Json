@@ -1,0 +1,15 @@
+{
+    "name": "448. Daring to Be Different",
+    "description": "I dare to be different, to stand out in a world that values conformity. Being different isn't always easy, but it's where my true power lies. Daring to be different means living authentically, embracing my uniqueness, and refusing to blend in when I know I was made to shine.",
+    "image": "448.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

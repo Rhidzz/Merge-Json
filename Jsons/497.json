@@ -1,0 +1,15 @@
+{
+    "name": "498. Waves of Freedom",
+    "description": "There's something freeing in letting go, in feeling the waves of freedom wash over me. I used to hold on to expectations and fear, but now, I'm learning to trust the flow. Waves of freedom remind me that it's okay to go with the current, even if it's uncertain because I know I'll find my way.",
+    "image": "498.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "453. Brave Enough to Be Me",
+    "description": "It takes courage to be truly yourself in a world that often tries to tell you who to be. I've learned that being brave isn't about being fearless it's about embracing who I am, flaws and all. Brave enough to be me means standing tall in my truth, no matter the judgment or expectations of others.",
+    "image": "453.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, blue, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

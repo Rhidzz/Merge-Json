@@ -1,0 +1,15 @@
+{
+    "name": "542. Living Beyond the Ordinary",
+    "description": "I don't need to fit into the mold of what's expected or ordinary. I've learned to live beyond the ordinary, to create my own path that is uniquely mine. Living beyond the ordinary means stepping into the extraordinary, embracing every part of myself and everything life has to offer.",
+    "image": "542.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "salmon, white, black, grey "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

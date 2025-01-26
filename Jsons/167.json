@@ -1,0 +1,15 @@
+{
+    "name": "168. Connected Souls",
+    "description": "We are more than just two people we are connected souls, intertwined through every joy and every struggle. Our connection transcends the physical, reaching into the very depths of who we are. Connected souls are forever, no matter the distance or time.",
+    "image": "168.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, yellow, red, pink, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

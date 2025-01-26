@@ -1,0 +1,15 @@
+{
+    "name": "106. Are You With Me",
+    "description": "Sometimes, I wonder if anyone truly understands the journey I'm on. Living with a disability means facing moments of isolation, but I hold onto the hope that I'm not alone. Are you with me ready to walk beside me through every struggle and every triumph, as we face the world together?\n",
+    "image": "106.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

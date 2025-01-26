@@ -1,0 +1,15 @@
+{
+    "name": "481. Shining in My Uniqueness",
+    "description": "There is brilliance in being unique, in shining a light that no one else can replicate. My uniqueness is my strength, and it radiates from within, showing the world who I truly am. Shining in my uniqueness means owning every part of myself and letting it glow unapologetically.",
+    "image": "481.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

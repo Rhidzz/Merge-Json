@@ -1,0 +1,15 @@
+{
+    "name": "45. Show Me Mercy",
+    "description": "In the moments when I'm lost, when I don't have the strength to stand on my own, show me mercy. Let me feel your kindness, your patience, and your understanding. I'm not perfect, but all I ask is for a little grace in return for all the love I give.\"",
+    "image": "45.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, orange, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

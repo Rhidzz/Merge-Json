@@ -1,0 +1,15 @@
+{
+    "name": "314. Heavy Heart",
+    "description": "My heart feels heavy at times, burdened by the weight of the struggles I face, both seen and unseen. But this heaviness doesn't break me it strengthens me, teaching me the depth of my own resilience. A heavy heart isn't a weakness; it's proof of how deeply I love, how deeply I care, and how much I've overcome.",
+    "image": "314.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, purple, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

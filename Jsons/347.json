@@ -1,0 +1,15 @@
+{
+    "name": "348. Emotions on Fire",
+    "description": "At times, my emotions burn like fire, fierce and uncontrollable, igniting everything in their path. Being differently-abled means that the highs and lows of life are felt more intensely, and sometimes it feels like the flames might consume me. But this fire also fuels me, lighting the way forward, reminding me that I am alive.",
+    "image": "348.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, purple, pink, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

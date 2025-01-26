@@ -1,0 +1,15 @@
+{
+    "name": "434. The Beauty of Imperfection",
+    "description": "I've come to see that imperfection is where the real beauty lies. It's in the flaws, the struggles, and the parts of me that don't fit the ideal. The beauty of imperfection is in its authenticity, its rawness, and the strength that comes from embracing it fully.",
+    "image": "434.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

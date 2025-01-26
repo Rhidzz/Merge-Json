@@ -1,0 +1,15 @@
+{
+    "name": "218. In the Glow of Us",
+    "description": "When we're together, the world fades, and all I see is us, glowing with love, stronger than anything that's come before. In the glow of us, I feel like nothing could ever pull us apart. Our love lights up everything we touch.",
+    "image": "218.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, dark green, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

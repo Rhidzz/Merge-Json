@@ -1,0 +1,15 @@
+{
+    "name": "213, Our Endless Flame",
+    "description": "The flame between us will never burn out. Through every struggle, every challenge, it only grows brighter, lighting our way. Our endless flame is the love that keeps us warm, no matter what happens.",
+    "image": "213.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, orange, pink, black, green, red, dark blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

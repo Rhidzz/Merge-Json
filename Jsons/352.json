@@ -1,0 +1,15 @@
+{
+    "name": "253. The Weight of Being",
+    "description": "Some days, the weight of simply existing feels like too much to bear. It's the constant juggling of what I need and what the world expects from me. But this weight doesn't break me it molds me, reminding me that strength comes from carrying everything and still moving forward.",
+    "image": "353.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

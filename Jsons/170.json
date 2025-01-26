@@ -1,0 +1,15 @@
+{
+    "name": "171. Love's Journey",
+    "description": "Love isn't just a destination it's a journey, one that we take together, step by step. We learn, we grow, we stumble, and we rise, always moving forward. Love's journey is filled with challenges, but with you by my side, I know we can conquer anything.",
+    "image": "171.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

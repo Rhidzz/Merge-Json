@@ -1,0 +1,15 @@
+{
+    "name": "202. Love's Silent Promise",
+    "description": "Love doesn't always need words; sometimes, it's in the silence where we feel it most. In every quiet moment, there's a promise that speaks louder than anything we could say. Love's silent promise is the commitment to always be there, no matter what.",
+    "image": "202.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, orange, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

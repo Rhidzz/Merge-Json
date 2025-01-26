@@ -1,0 +1,15 @@
+{
+    "name": "34. There's a Beauty in Being Heaven Sent",
+    "description": "Some things are just meant to be like us. There's a beauty in being heaven sent, in finding someone who feels like destiny, like a gift wrapped in the most unexpected way. With you, I've found a love that feels like a blessing I never thought I'd deserve.",
+    "image": "34.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, blue, white, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

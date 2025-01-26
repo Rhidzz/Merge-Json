@@ -1,0 +1,15 @@
+{
+    "name": "309. In the Space Between",
+    "description": "There's a space between my heart and mind, where everything collides thoughts, feelings, dreams, and doubts. Living with a disability means learning to balance it all, to find peace in that space. In the space between, I find my truth, my purpose, and my way forward.",
+    "image": "309.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated, glitter"
+        }
+    ]
+}

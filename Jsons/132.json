@@ -1,0 +1,15 @@
+{
+    "name": "133. In Your Arms",
+    "description": "There's no place I'd rather be than in your arms, where I feel safe, loved, and seen. With you, I find my peace and my strength, as if everything in the world fades away when I'm held by you. In your arms, I'm home.",
+    "image": "133.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, black, white, orange, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, drips"
+        }
+    ]
+}

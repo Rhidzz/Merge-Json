@@ -1,0 +1,15 @@
+{
+    "name": "433. Uncovering What's Inside",
+    "description": "There's more inside me than anyone could ever see layers of thoughts, emotions, dreams, and desires that make me who I am. I'm still uncovering what's inside, learning new things about myself every day. This journey of self-discovery is just beginning, and I'm excited to see what else I find within.",
+    "image": "433.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

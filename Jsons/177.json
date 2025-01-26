@@ -1,0 +1,15 @@
+{
+    "name": "178. I Surrender to You",
+    "description": "I surrender to you, not in weakness, but in the understanding that love requires trust, vulnerability, and letting go. In your arms, I find the freedom to be myself, to love without fear. Surrendering to you is the most powerful choice I can make, knowing that together, we are unstoppable.",
+    "image": "178.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, yellow, white, red, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "11. Self Love",
+    "description": "Learning to love myself hasn't been easy it's been a journey of accepting the scars, the flaws, and the beauty in my own story. But self-love isn't just about healing; it's about realizing that I deserve the kind of love I give so freely to others.",
+    "image": "11.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

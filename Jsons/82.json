@@ -1,0 +1,15 @@
+{
+    "name": "83. Moving Mountains",
+    "description": "There's nothing that can't be overcome when you believe. I've moved mountains, not because they were easy, but because I knew I had the strength to do it. With every step, I grow closer to everything I want to become.",
+    "image": "83.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "teal, purple, black, white, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

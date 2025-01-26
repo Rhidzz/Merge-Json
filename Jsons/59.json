@@ -1,0 +1,15 @@
+{
+    "name": "60. I See My World Shifting",
+    "description": "Everything around me is changing, slowly but surely. I see my world shifting, the way I think, the way I love, and how I view the future. It's not always easy, but it's shaping me into something stronger, something more me.",
+    "image": "60.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, black, gray, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "176. Unveiling Love",
+    "description": "Love is like a mystery, one that we uncover layer by layer, revealing its depth with each passing day. As we unveil love, we discover not only each other but also ourselves. With every revelation, I fall deeper into you, into us.",
+    "image": "176.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, black, white, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, gems"
+        }
+    ]
+}

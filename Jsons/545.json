@@ -1,0 +1,15 @@
+{
+    "name": "546. Bold and Unafraid",
+    "description": "I walk this world boldly, unafraid to show up as myself. The world may not always understand, but I don't need its approval to feel worthy. Bold and unafraid means standing strong in my truth, living with courage, and taking every step with confidence.",
+    "image": "546.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, black, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "279. Light in the Dark",
+    "description": "Even in the darkest moments, you are my light. Your love guides me through the shadows, giving me hope and strength. In you, I find a light that never dims, no matter what we face. You are the spark that keeps me going when everything else feels lost.",
+    "image": "279.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, turquoise, pink, orange, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

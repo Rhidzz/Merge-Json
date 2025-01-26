@@ -1,0 +1,15 @@
+{
+    "name": "92. Should We Dance Tonight",
+    "description": "Should we dance tonight, letting the music guide us through every step, every beat, and every moment of connection? In the rhythm, we find a quiet understanding, a space where the world fades away, and it's just you and me. Tonight, let's forget everything else and lose ourselves in the dance, as if time itself has stopped.",
+    "image": "92.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

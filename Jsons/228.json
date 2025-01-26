@@ -1,0 +1,15 @@
+{
+    "name": "229. I Wonder If I Let You Down",
+    "description": "There are moments when I wonder if I've let you down, if I could have done more. But through everything, I know I've always tried my best. I hope you know that, no matter what, my love for you has never faltered.",
+    "image": "229.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, green, black, white, orange, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

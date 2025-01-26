@@ -1,0 +1,15 @@
+{
+    "name": "128. Dance with Me Tonight",
+    "description": "Tonight, let the music be our guide, and let every step bring us closer. As we move together, there's nothing else in the world but this moment, this rhythm, and the love we share. Dance with me tonight, where time stands still, and we lose ourselves in each other.",
+    "image": "128.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, orange, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

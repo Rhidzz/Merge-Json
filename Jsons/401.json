@@ -1,0 +1,15 @@
+{
+    "name": "402. Staring at the Unknown",
+    "description": "The unknown can be overwhelming, but I've learned to stare at it without fear. There are moments when I don't have all the answers, when everything feels uncertain. But I know that staring at the unknown is where I find my courage to keep moving forward, to trust that the path will unfold as I take it one step at a time.",
+    "image": "402.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, yellow, orange, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

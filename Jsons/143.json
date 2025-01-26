@@ -1,0 +1,15 @@
+{
+    "name": "144. Eyes That Speak",
+    "description": "Your eyes speak louder than words ever could, telling me everything I need to know. In your gaze, I find the truth of your heart, your soul, and the love we share. Eyes that speak are all I need to feel understood, seen, and loved.",
+    "image": "144.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "White, black, gray, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

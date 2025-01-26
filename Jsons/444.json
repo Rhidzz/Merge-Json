@@ -1,0 +1,15 @@
+{
+    "name": "445. Different Paths, Same Heart",
+    "description": "We may walk different paths, but our hearts beat the same. The journey may be unique to each of us, shaped by our own experiences, but the love and strength we share connects us all. Different paths, same heart means that no matter where we go, we are united by our shared humanity.",
+    "image": "445.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, pink, green, blue, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

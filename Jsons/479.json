@@ -1,0 +1,15 @@
+{
+    "name": "480. Free to Be Me",
+    "description": "I am free to be me, no longer bound by the expectations of others or the constraints of society. To be myself is the greatest gift I can give to the world and to myself. Free to be me means embracing my truth, my path, and my individuality, with no apologies.",
+    "image": "480.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, drips, brush strokes, saturated"
+        }
+    ]
+}

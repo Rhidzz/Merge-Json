@@ -1,0 +1,15 @@
+{
+    "name": "450. Revelations in Solitude",
+    "description": "Solitude has a way of revealing things to me that the noise of the world never could. It's in the quiet moments, when I'm alone with my thoughts, that I uncover the truths that shape who I am. Revelations in solitude are the moments when I connect most deeply with myself, finding clarity in the silence.",
+    "image": "450.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "361. The Silence Within",
+    "description": "In the quiet of my mind, I find a silence that's both peaceful and full of everything I need to hear. It's in this stillness that I reconnect with who I am and what truly matters. The silence within isn't empty it's a space where I gather strength, understanding, and the courage to keep moving forward.",
+    "image": "361.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

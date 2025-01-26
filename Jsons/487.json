@@ -1,0 +1,15 @@
+{
+    "name": "488. Living in Harmony with Me",
+    "description": "Living in harmony with myself means being at peace with my choices, my strengths, and my weaknesses. It's about embracing the full spectrum of who I am and finding balance in it all. In harmony with me, I find the inner peace I need to navigate the world confidently.",
+    "image": "488.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

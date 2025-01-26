@@ -1,0 +1,15 @@
+{
+    "name": "305. Thoughts Without End",
+    "description": "My thoughts never stop, constantly racing, looping around one another in a never-ending cycle. Being disabled means thinking about everything, from my needs to the world's expectations, and trying to make sense of it all. Thoughts without end don't overwhelm me they shape who I am, reminding me that I am always growing.",
+    "image": "305.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

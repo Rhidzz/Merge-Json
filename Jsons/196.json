@@ -1,0 +1,15 @@
+{
+    "name": "197. When I'm With You",
+    "description": "When I'm with you, the world falls away, and all that matters is the space we share. It's in these moments that I feel most alive, most myself, and most loved. When I'm with you, I am exactly where I'm meant to be.",
+    "image": "197.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, magenta, blue, white, green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

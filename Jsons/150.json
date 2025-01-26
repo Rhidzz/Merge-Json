@@ -1,0 +1,15 @@
+{
+    "name": "151. Holding On to You",
+    "description": "No matter how difficult the journey gets, I will hold on to you, to us, with everything I have. Through the struggles, the heartache, and the pain, I know that holding on is the only thing that matters. You are my anchor, and I'll never let go.",
+    "image": "151.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, red, purple, magenta, pink, yellow, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "409. Different is Divine",
+    "description": "I am different, and that's something I now celebrate. In a world that often values conformity, I've learned that being different is divine. It's the spark that makes me unique, the gift that allows me to offer something the world never knew it needed.",
+    "image": "409.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "370. Inside the Silence",
+    "description": "Inside the silence, I find space to breathe, to think, and to hear the whispers of my heart. The world can be loud, but in these quiet moments, I reconnect with who I truly am. Inside the silence, I discover strength, clarity, and the courage to keep going, even when nothing else makes sense.",
+    "image": "370.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

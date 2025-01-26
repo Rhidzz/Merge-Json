@@ -1,0 +1,15 @@
+{
+    "name": "8. Be Among Your Presence",
+    "description": "There's a magic in simply being near you a calm, a warmth, a feeling like everything might just be okay. To be among your presence is enough to make the world fade away, leaving only the quiet beauty of us.",
+    "image": "8.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, yellow, purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

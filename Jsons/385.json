@@ -1,0 +1,15 @@
+{
+    "name": "386. The Beauty of Being Me",
+    "description": "There's a beauty in being me, in being true to who I am, even when the world tries to tell me I don't belong. Living with a disability means seeing the world differently, but I've learned that this difference is what makes me shine. The beauty of being me is in the way I've learned to love myself, flaws and all, and embrace everything that makes me whole.",
+    "image": "386.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

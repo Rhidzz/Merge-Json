@@ -1,0 +1,15 @@
+{
+    "name": "86. I'll Never Run From You",
+    "description": "Through the highs and the lows, through the easy and the hard, I'll never run from you. No matter what comes our way, you're my constant, and I'll always face it with you, side by side.",
+    "image": "86.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gold, orange, blue, tan, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, glitter"
+        }
+    ]
+}

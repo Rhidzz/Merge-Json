@@ -1,0 +1,15 @@
+{
+    "name": "149. Our Love, Our Song",
+    "description": "Every moment we share is like a verse in the song of our love, a melody that plays in my heart. Through the highs and lows, we continue to write our song together. Our love is the music that guides us, and every note is filled with meaning.",
+    "image": "149.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Green, yellow, orange, white, red, black, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

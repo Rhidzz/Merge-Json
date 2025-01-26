@@ -1,0 +1,15 @@
+{
+    "name": "483. Finding My Own Path",
+    "description": "My path is mine to create, and while it may not always follow the traditional route, it is uniquely mine. The world can try to impose expectations, but I choose to walk the path that feels true to who I am. Finding my own path means embracing the detours and trusting that every step leads me to where I am meant to be.",
+    "image": "483.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, black, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

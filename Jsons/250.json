@@ -1,0 +1,15 @@
+{
+    "name": "251. The Unspoken Truth",
+    "description": "There are truths we don't need to say aloud because we feel them in our hearts. The unspoken truth is the one that binds us, that makes us understand each other without words. In silence, our love speaks volumes.",
+    "image": "251.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, white, black, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

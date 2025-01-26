@@ -1,0 +1,15 @@
+{
+    "name": "200. Our Hearts in Sync",
+    "description": "When our hearts beat in sync, everything else falls into place. It's a connection that's deeper than words, stronger than any challenge we face. Our hearts in sync create a rhythm that can't be broken, no matter where life takes us.",
+    "image": "200.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, dark blue, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "446. Vulnerable to the World",
+    "description": "To be vulnerable is to expose my heart to a world that may not always understand or accept it. But in this vulnerability, I've found my true power. Vulnerable to the world means that I am open, ready to embrace everything love, pain, growth and trust that it will shape me into who I am meant to be.",
+    "image": "446.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "salmon, white, blue, dark blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

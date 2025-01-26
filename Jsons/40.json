@@ -1,0 +1,15 @@
+{
+    "name": "41. Trying Too Hard Now",
+    "description": "I've been pushing, striving, and overthinking, trying to make things fit where they don't. But maybe, the harder I try, the further away it gets. It's time to breathe, let go, and trust that what's meant for me will come naturally.",
+    "image": "41.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, tan, teal, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

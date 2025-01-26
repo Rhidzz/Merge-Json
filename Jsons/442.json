@@ -1,0 +1,15 @@
+{
+    "name": "443. The Silence of My Difference",
+    "description": "Sometimes, my difference is a silent thing, unspoken but deeply felt. It's a space where I stand apart from the crowd, quietly navigating a world that doesn't fully see me. But in the silence of my difference, I find strength, knowing that I don't need to be understood to be valid.",
+    "image": "443.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "468. Learning to Live with Me",
+    "description": "Living with me has been a journey of self-discovery, learning to accept my flaws, my challenges, and my growth. It hasn't always been easy, but I've come to love who I am, exactly as I am. Learning to live with me means embracing my uniqueness and finding peace in my own presence.",
+    "image": "468.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

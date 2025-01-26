@@ -1,0 +1,15 @@
+{
+    "name": "384. In a World That Doesn't Understand",
+    "description": "I often find myself in a world that doesn't fully understand me where my needs, my struggles, and my voice aren't always heard. But even in that, I find my place. I may not fit the world's expectations, but I am learning to carve out my own, embracing every part of who I am, even when others don't see it.",
+    "image": "384.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

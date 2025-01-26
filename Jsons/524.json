@@ -1,0 +1,15 @@
+{
+    "name": "525. Living Boldly, Living Me",
+    "description": "Living boldly means embracing every part of myself, even the parts that make me feel different or out of place. It's about standing tall, making my own choices, and living life fully. Living boldly, living me means being confident in who I am, and refusing to apologize for it.",
+    "image": "525.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, black, gray, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

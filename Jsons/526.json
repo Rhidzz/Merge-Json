@@ -1,0 +1,15 @@
+{
+    "name": "527. Dancing to My Own Beat",
+    "description": "I don't need to follow the crowd; I'm learning to dance to my own beat. It's in the moments when I stop trying to fit in and start embracing my own rhythm that I truly feel alive. Dancing to my own beat is the freedom to be myself, to express who I am without hesitation.",
+    "image": "527.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

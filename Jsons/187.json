@@ -1,0 +1,15 @@
+{
+    "name": "188. Our Secret Love",
+    "description": "Our love is the kind of secret that only we understand, the kind that exists in every glance and every unspoken word. It's ours and ours alone, hidden in plain sight, but still powerful beyond measure. Our secret love is the kind of magic that no one else can touch.",
+    "image": "188.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, lime green, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

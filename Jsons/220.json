@@ -1,0 +1,15 @@
+{
+    "name": "221. Trapped in Your Love",
+    "description": "Being with you is like being trapped, but it's the kind of trap I never want to escape from. Your love holds me, makes me feel safe and whole in a way nothing else could. I'm not just stuck in your love I'm home in it.",
+    "image": "221.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, tan, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, glitter"
+        }
+    ]
+}

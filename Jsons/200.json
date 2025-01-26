@@ -1,0 +1,15 @@
+{
+    "name": "201. Dancing Through Love",
+    "description": "We move together like a dance, swaying through life's challenges and joys with grace. Each step is a testament to the love we share, a rhythm that keeps us in tune with each other. Dancing through love, we find our perfect harmony.",
+    "image": "201.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

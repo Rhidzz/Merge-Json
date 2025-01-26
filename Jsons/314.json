@@ -1,0 +1,15 @@
+{
+    "name": "315. Whispers of Empathy",
+    "description": "Empathy runs through me like a whisper, soft but powerful, making me feel connected to the world and its struggles. Living with a disability means feeling things more deeply, understanding the pain of others in ways most can't. These whispers of empathy remind me that my heart is open, that I am not alone in what I feel.",
+    "image": "315.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, orange, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

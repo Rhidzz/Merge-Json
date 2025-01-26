@@ -1,0 +1,15 @@
+{
+    "name": "429. The Unspoken Journey",
+    "description": "My journey is one that isn't always spoken out loud, but it's felt deeply in everything I do. It's the path I walk with every challenge, every moment of doubt, and every victory, small or large. The unspoken journey is just as real as the loudest triumphs it's the quiet strength that keeps me moving forward.",
+    "image": "429.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, teal, turquoise, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "10. Can We Ride It Out",
+    "description": "Love isn't always smooth it's messy, unpredictable, and full of challenges. But with you, I know we can weather any storm, face any uncertainty, and hold on through it all. Can we ride it out together, hand in hand, and find our way back to the calm?",
+    "image": "10.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, orange, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

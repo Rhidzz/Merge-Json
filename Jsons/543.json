@@ -1,0 +1,15 @@
+{
+    "name": "544. A Journey of Transformation",
+    "description": "Every step I take is part of my transformation a process of shedding old versions of myself and stepping into something new. This journey hasn't always been easy, but it's been necessary for my growth. A journey of transformation is not about changing who I am; it's about becoming more of who I've always been.",
+    "image": "544.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "65. My Time Is My Own",
+    "description": "My time is precious it's mine to spend, to waste, and to savor. I've learned that when I take control of it, I take control of my life. No more rushing, no more waiting just me, living on my own terms.",
+    "image": "65.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, turquoise, magenta, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, glitter"
+        }
+    ]
+}

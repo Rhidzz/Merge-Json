@@ -1,0 +1,15 @@
+{
+    "name": "439. Living Outside the Lines",
+    "description": "I've never quite fit within the lines the world has drawn, and I've learned to embrace that. Living outside the lines means creating my own path, one that doesn't follow the usual rules or expectations. It's in this space that I've found freedom, creativity, and the power to live authentically.",
+    "image": "439.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, turquoise, brown, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

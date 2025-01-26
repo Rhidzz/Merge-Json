@@ -1,0 +1,15 @@
+{
+    "name": "322. Lost in My Emotions",
+    "description": "Sometimes, I get lost in my emotions, overwhelmed by everything I'm carrying inside. It's not easy to be different in a world that doesn't always understand, and the weight of it can feel like too much. But even when I'm lost, I know I'll find my way back because these emotions are part of me, part of what makes me real.",
+    "image": "322.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

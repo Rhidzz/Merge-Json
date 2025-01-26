@@ -1,0 +1,15 @@
+{
+    "name": "537. Living Without Limits",
+    "description": "I refuse to live with limits, whether they're set by others or by my own doubts. Every day, I break free from the chains that try to hold me down. Living without limits means knowing that anything is possible, and I am capable of achieving all that I dream.",
+    "image": "537.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

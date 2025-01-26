@@ -1,0 +1,15 @@
+{
+    "name": "84. Treating Me Like I'm Ashamed",
+    "description": "I refuse to let anyone treat me like I'm something to be ashamed of. My story, my truth, and every piece of who I am is something to be proud of. Don't try to dim my light I'll shine regardless.",
+    "image": "84.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "magenta, blue, white, pink, magenta, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

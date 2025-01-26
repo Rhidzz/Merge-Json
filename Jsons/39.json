@@ -1,0 +1,15 @@
+{
+    "name": "40. This Is What Made Me",
+    "description": "Every choice, every heartache, every moment of doubt it all led me here. This is what made me: the strength to rise, the courage to love, and the resilience to keep going. I am a reflection of everything I've survived and everything I've learned along the way.",
+    "image": "40.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, magenta, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

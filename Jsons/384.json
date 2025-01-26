@@ -1,0 +1,15 @@
+{
+    "name": "385. Different But Strong",
+    "description": "I'm different, and that's okay. My body doesn't work the same as others, but my strength comes from learning to navigate a world that wasn't made for me. Different but strong means that I've turned my challenges into power, embracing my own journey and the strength that comes with it.",
+    "image": "385.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, yellow, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

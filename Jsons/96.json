@@ -1,0 +1,15 @@
+{
+    "name": "97. Remember Me",
+    "description": "Through all the years, through every change, remember me not just for the good moments, but for the struggles we faced together. Remember me as someone who loved fiercely, who fought through the pain, and who never gave up on what mattered. Remember me for the strength it took to rise again, time and time again.",
+    "image": "97.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, yellow, white, blue, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

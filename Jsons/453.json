@@ -1,0 +1,15 @@
+{
+    "name": "454. Fitting in Where I Don't",
+    "description": "I don't always fit in, and that's okay. The world doesn't always make space for me, but I've learned to make my own. Fitting in where I don't means creating my own place, my own community, and living authentically in spaces that weren't made for me.",
+    "image": "454.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, blue, pink, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

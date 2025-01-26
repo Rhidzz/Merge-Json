@@ -1,0 +1,15 @@
+{
+    "name": "283. Together, We Soar",
+    "description": "With you, I feel like we can conquer anything. Together, we soar above the challenges, above the doubts, knowing that nothing is impossible when we stand united. In each other, we find the strength to rise higher than we ever thought possible.",
+    "image": "283.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, pink, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

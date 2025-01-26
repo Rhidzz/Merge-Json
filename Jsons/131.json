@@ -1,0 +1,15 @@
+{
+    "name": "132. A Love So Pure",
+    "description": "Our love is a rare kind of purity, untouched by time or hardship. It's the kind of love that heals, that nurtures, and that binds us in a way words can never fully express. A love so pure is all I need to feel whole, and it's all I'll ever need.",
+    "image": "132.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, white, magenta, red, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

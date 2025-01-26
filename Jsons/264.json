@@ -1,0 +1,15 @@
+{
+    "name": "265. Waiting for Forever",
+    "description": "There are moments in life when you know you're waiting for something incredible. I'm waiting for forever with you, for the life we're building together, and for the love that will never end. Waiting for forever means knowing that everything we have will last for eternity.",
+    "image": "265.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, magenta, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "320. Torn Within",
+    "description": "There are days when I feel torn within, caught between what the world expects of me and what I truly need. The struggle of being different, of living with a disability, sometimes leaves me feeling like I'm being pulled in two directions. But in this tension, I find my strength, learning to embrace both sides of who I am.",
+    "image": "320.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

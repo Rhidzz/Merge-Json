@@ -1,0 +1,15 @@
+{
+    "name": "58. Inside Out",
+    "description": "You've seen me at my worst, my rawest, and still, you stay. I'm turned inside out, every emotion, every fear laid bare, and yet you love me all the same. It's in this vulnerability that I feel closest to you, knowing you love me for who I truly am.",
+    "image": "58.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, red, teal, green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, refurbished plastic"
+        }
+    ]
+}

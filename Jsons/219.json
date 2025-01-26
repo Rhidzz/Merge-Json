@@ -1,0 +1,15 @@
+{
+    "name": "220. A Passion to Remember",
+    "description": "The passion we share is unforgettable it's a love that burns in my mind, in my soul, and stays with me long after we're apart. A passion like ours doesn't just fade, it becomes part of who we are. I'll remember this love for the rest of my life.",
+    "image": "220.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, foil, white, orange, tan, purple, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

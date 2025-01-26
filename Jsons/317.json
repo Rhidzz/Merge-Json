@@ -1,0 +1,15 @@
+{
+    "name": "318. Reflections in the Dark",
+    "description": "In the dark, I find reflections of myself that I don't always recognize, thoughts and feelings that come to the surface when no one is around. Living with a disability means facing a different reality, one that others don't always see. But in those reflections, I see my strength, my journey, and my purpose.",
+    "image": "318.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, tan, pink, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, glitter"
+        }
+    ]
+}

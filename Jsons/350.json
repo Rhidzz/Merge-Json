@@ -1,0 +1,15 @@
+{
+    "name": "351. The Pulse of My Mind",
+    "description": "The pulse of my mind beats constantly, sometimes racing, sometimes drifting, but always there. My thoughts can be overwhelming, yet they shape my perspective, guiding me through every moment. This pulse isn't something I can turn off it's what keeps me grounded, what makes me who I am.",
+    "image": "351.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, glitter"
+        }
+    ]
+}

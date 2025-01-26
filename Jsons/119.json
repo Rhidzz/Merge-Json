@@ -1,0 +1,15 @@
+{
+    "name": "120. Embrace the Moment",
+    "description": "We've spent so much time looking ahead, worrying about what comes next, but in this moment, there's nothing else but us. Let's embrace it this time, this love, this life we're building together. In the present, we find everything we've been searching for.",
+    "image": "120.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, purple, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

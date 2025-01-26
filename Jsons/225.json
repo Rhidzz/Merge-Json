@@ -1,0 +1,15 @@
+{
+    "name": "226. When Your Heart Broke Over Stubborness",
+    "description": "I know there were times when stubbornness got in the way, and your heart broke because of it. We both carried the weight of that, but now I see how much stronger it's made us. I'll always love you, no matter how many times we've stumbled.",
+    "image": "226.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, gray, green, white, magenta, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

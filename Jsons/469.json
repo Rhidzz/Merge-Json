@@ -1,0 +1,15 @@
+{
+    "name": "470. A Unique Kind of Love",
+    "description": "The love I give is unique different from what the world expects, yet it's powerful and real. My love doesn't conform to norms; it's shaped by the experiences and challenges I've faced. A unique kind of love is one that's deep, unshakable, and full of authenticity.",
+    "image": "470.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, teal, pink, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

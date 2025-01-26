@@ -1,0 +1,15 @@
+{
+    "name": "358. Mind's Eye",
+    "description": "Through my mind's eye, I see the world in a way that others might miss. It's a view that's shaped by my experiences, my challenges, and my triumphs. My mind's eye shows me possibilities, giving me the vision to see beyond the surface and into what truly matters.",
+    "image": "358.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

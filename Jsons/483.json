@@ -1,0 +1,15 @@
+{
+    "name": "484. Unbound and Unstoppable",
+    "description": "I am unbound free from the chains of other people's expectations. Unstoppable because I believe in my journey and my strength, no matter the obstacles that come my way. Unbound and unstoppable is about living on my terms and knowing that nothing can hold me back.",
+    "image": "484.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, gray, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

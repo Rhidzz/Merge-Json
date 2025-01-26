@@ -1,0 +1,15 @@
+{
+    "name": "307. Silent Battles",
+    "description": "The battles I fight are often silent no one sees the struggles, the pain, the moments of doubt. But in those silent battles, I find the courage to keep going, to keep fighting for what I deserve. These battles may be quiet, but they make me who I am, and they give me the strength to keep pushing forward.",
+    "image": "307.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "403. Breaking the Mold",
+    "description": "I've never fit neatly into the mold that the world expects of me and that's been my strength. Breaking the mold means I've created my own path, one that's uniquely mine. It's not always easy, but breaking the mold is the first step toward living authentically, in a world that tries to define us.",
+    "image": "403.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

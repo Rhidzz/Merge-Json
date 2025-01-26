@@ -1,0 +1,15 @@
+{
+    "name": "344. Haunted by Emotion",
+    "description": "My emotions sometimes haunt me, staying in the shadows of my mind, tugging at me even when I try to push them away. Being differently-abled means feeling things more deeply, and these emotions can be overwhelming. But they also remind me that I'm alive, that I feel, and that I am capable of love, even when it feels like a haunting.",
+    "image": "344.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, turquoise, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

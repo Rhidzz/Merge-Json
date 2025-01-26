@@ -1,0 +1,15 @@
+{
+    "name": "217. Desire's Embrace",
+    "description": "Desire doesn't just make me long for you it wraps me up in its embrace, holding me tight, keeping me close. Every part of me wants you, in ways I can't fully explain. In desire's embrace, I lose myself to you, over and over again.",
+    "image": "217.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, green, black, purple, red, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "160. Through Your Heart",
+    "description": "When I look into your eyes, I see the depth of your soul, but it's through your heart that I truly understand you. Every beat is a reflection of your love, your pain, and your truth. Through your heart, I've learned to love more deeply than I ever thought possible.",
+    "image": "160.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, magenta, pink, white, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "31. All That I Know",
+    "description": "Everything I've learned, everything I've felt it all leads back to you. You've become the constant in my chaos, the truth I can't ignore. All that I know is that my heart is yours, now and always.",
+    "image": "31.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, gray, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

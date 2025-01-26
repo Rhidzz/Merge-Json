@@ -1,0 +1,15 @@
+{
+    "name": "398. Unapologetically Me",
+    "description": "I've spent too much of my life apologizing for who I am, but not anymore. I'm unapologetically me unique, different, and strong in my own way. This is who I am, and I've learned to stand proudly in my truth, no matter how the world might view me.",
+    "image": "398.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

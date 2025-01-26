@@ -1,0 +1,15 @@
+{
+    "name": "102. Not Afraid To Be Myself",
+    "description": "I used to hide in the shadows, afraid to show the world who I truly am. But now, I'm not afraid to be myself broken, imperfect, and real. I've learned that my authenticity is my strength, and I embrace it, flaws and all.",
+    "image": "102.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, tan, gold, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, glitter"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "127. Everlasting Embrace",
+    "description": "There's no greater comfort than being wrapped in your arms, knowing that this love is eternal. Our embrace is a promise, one that holds through the trials and the triumphs. With every touch, we become more intertwined, bound together for all time.",
+    "image": "127.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, orange, white, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, water"
+        }
+    ]
+}

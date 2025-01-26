@@ -1,0 +1,15 @@
+{
+    "name": "196. More Than Love",
+    "description": "What we have is more than love; it's a bond that transcends everything else. It's in the way we understand each other without words, in the way we've grown together through every trial. More than love, this is a connection that will last forever.",
+    "image": "196.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, pink, brown, black, dark blue, teal, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

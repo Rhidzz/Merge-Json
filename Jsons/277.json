@@ -1,0 +1,15 @@
+{
+    "name": "278. We Walk This Road Together",
+    "description": "No matter the obstacles, no matter the detours, we walk this road together. With every step, I know that we are side by side, sharing the burdens, the joys, and everything in between. We walk this road together, knowing that our journey is just as important as the destination.",
+    "image": "278.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, pink, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

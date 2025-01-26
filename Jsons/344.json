@@ -1,0 +1,15 @@
+{
+    "name": "345. Overthinking Everything",
+    "description": "I overthink everything every word, every action, every feeling. It's the curse and the gift of living in a world that's not built for me, where I'm constantly questioning how I'm perceived. But in this overthinking, I find clarity, a deeper understanding of myself, even when the answers are hard to find.",
+    "image": "345.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, turquoise, yellow, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

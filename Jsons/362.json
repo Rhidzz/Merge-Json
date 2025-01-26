@@ -1,0 +1,15 @@
+{
+    "name": "363. Drifting in My Mind",
+    "description": "At times, I feel like I'm drifting in my mind, caught between thoughts that swirl around, trying to find their place. It's not always easy to stay grounded, but in these moments of drifting, I discover more about myself than I could have imagined. Drifting doesn't mean I'm lost it means I'm finding my way, one thought at a time.",
+    "image": "363.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

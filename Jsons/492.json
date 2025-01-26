@@ -1,0 +1,15 @@
+{
+    "name": "493. Embracing My Own Light",
+    "description": "I've learned to embrace my light, to shine even when the world feels dark. My light is unique, and it's something I carry proudly, letting it guide me through challenges and uncertainties. Embracing my own light means being true to myself, no matter how others may perceive me.",
+    "image": "493.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

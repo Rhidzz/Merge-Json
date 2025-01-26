@@ -1,0 +1,15 @@
+{
+    "name": "81. What Shaped Me",
+    "description": "What shaped me isn't just the good, but the struggles, the heartache, the challenges I've faced. It's everything I've survived that's made me who I am. Every piece of me has been forged by the things I've lived through.",
+    "image": "81.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, orange, blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

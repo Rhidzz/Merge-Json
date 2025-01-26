@@ -1,0 +1,15 @@
+{
+    "name": "24. My Time Isnt Yours",
+    "description": "I've spent so much energy giving, waiting, and sacrificing, but I've realized something my time is mine. It's not yours to take, waste, or control. I'm learning to value it, protect it, and use it for what truly matters.",
+    "image": "24.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, gray, white, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

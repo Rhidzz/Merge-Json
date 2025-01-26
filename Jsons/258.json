@@ -1,0 +1,15 @@
+{
+    "name": "259. In the Quiet of Your Eyes",
+    "description": "Your eyes speak to me in ways that words never could. In their quiet depth, I see your heart, your soul, and the love you carry. In the quiet of your eyes, I find everything I need to know.",
+    "image": "259.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, magenta, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "99. Ill Be Ok",
+    "description": "I've fallen, I've stumbled, but each time I rise, I'm stronger than before. I'll be okay, because every trial, every hardship has made me who I am today. It may not always be easy, but I know that I have the resilience to keep moving forward.",
+    "image": "99.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, yellow, orange, teal, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

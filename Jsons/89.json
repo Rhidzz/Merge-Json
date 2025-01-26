@@ -1,0 +1,15 @@
+{
+    "name": "90. We've All Been Broken",
+    "description": "We've all been broken in ways that no one can see, shattered by the weight of our struggles and our scars. But it's in that brokenness where we find our true strength, where we rebuild ourselves piece by piece. We may be fractured, but we're still standing, still growing, and still capable of healing.",
+    "image": "90.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, white, black, pink, yellow, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "519. Embracing My Differences",
+    "description": "My differences are not something to hide, but something to embrace. They are what make me unique, giving me strength, perspective, and a story worth sharing. Embracing my differences means accepting that I am not like everyone else, and that's exactly what makes me special.",
+    "image": "519.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

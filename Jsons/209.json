@@ -1,0 +1,15 @@
+{
+    "name": "210. With You Always",
+    "description": "No matter where life takes us, I will always be with you. Through every high, every low, I'm by your side, and nothing can change that. With you always means forever in a way nothing else can.\n",
+    "image": "210.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, green, white, black, red, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

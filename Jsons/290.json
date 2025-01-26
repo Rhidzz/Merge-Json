@@ -1,0 +1,15 @@
+{
+    "name": "291. Heavy Thoughts",
+    "description": "Some days, my thoughts weigh me down, and it feels like I'm carrying the world on my shoulders. The world doesn't always get it, but my mind is my own, and sometimes, it's a heavy place to be. But I know that even when it feels like too much, I'm learning to carry it with grace.",
+    "image": "291.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, pink, salmon, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

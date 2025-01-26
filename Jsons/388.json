@@ -1,0 +1,15 @@
+{
+    "name": "389. Living in the Margins",
+    "description": "I live in the margins the spaces between what the world expects and what I can give. Being differently-abled means sometimes being on the outside looking in, but I've learned to find beauty in the edges. Living in the margins doesn't mean I'm less it means I've carved out a place where I can be truly myself.",
+    "image": "389.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

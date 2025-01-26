@@ -1,0 +1,15 @@
+{
+    "name": "502. Unveiling the Real Me",
+    "description": "For so long, I hid behind masks, afraid to let the world see the real me. But now, I'm ready to show up fully, with all my flaws, my dreams, and my heart. Unveiling the real me is the most freeing thing I've ever done, because I finally get to live in my truth.",
+    "image": "502.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "222. With Every Step, You and Me",
+    "description": "No matter where we go, no matter what comes our way, I'll take every step with you. We've been through so much together, and yet, I know we've only just begun. With every step, it's always been you and me.",
+    "image": "222.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, green, black, purple, dark green, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, gems"
+        }
+    ]
+}

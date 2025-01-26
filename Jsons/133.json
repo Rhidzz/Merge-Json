@@ -1,0 +1,15 @@
+{
+    "name": "134. The Pulse of Love",
+    "description": "Love beats within us like a pulse steady, strong, and undeniable. Every touch, every heartbeat is a reminder of the connection we share, the rhythm that binds us together. The pulse of love is all I need to know that we're forever.",
+    "image": "134.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, gray, white, purple, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

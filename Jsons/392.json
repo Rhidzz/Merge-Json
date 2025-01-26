@@ -1,0 +1,15 @@
+{
+    "name": "393. In the Shadow of Difference",
+    "description": "I live in the shadow of difference where my struggles aren't always visible to the outside world, but they shape everything I do. Living this way means constantly finding my own space, my own path, in a world that's not made for me. But in the shadow of difference, I've learned that there is strength, beauty, and power in being myself.",
+    "image": "393.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple, teal, turquoise, pink, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "394. Fading into the World",
+    "description": "There are days when it feels like I'm fading into the world, just another face in the crowd, unnoticed by those around me. But even in the background, I know I am seen, I am heard, and I matter. Fading into the world doesn't mean disappearing it means embracing my place in it, no matter how small it may seem.",
+    "image": "394.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

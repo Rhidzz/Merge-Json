@@ -1,0 +1,15 @@
+{
+    "name": "93. Time Heals All",
+    "description": "Time doesn't erase the pain, but it teaches us to grow around it. With each day that passes, we find a little more peace, a little more strength. Time heals all, not by removing the hurt, but by helping us learn how to carry it and still keep moving forward.",
+    "image": "93.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, magenta, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

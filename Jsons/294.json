@@ -1,0 +1,15 @@
+{
+    "name": "295. Beneath the Surface",
+    "description": "There's so much more beneath the surface of what you see. What I carry, what I've been through, goes deeper than anyone might realize. But that's okay because beneath the surface, I've learned to embrace who I am, and that's what matters most.",
+    "image": "295.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, turquoise, dark blue, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "258. Embrace What's Coming",
+    "description": "Whatever the future holds, I'm ready to embrace it with you by my side. Change is inevitable, but with you, I know we can face anything that comes our way. Embrace what's coming, because together, we'll make it through, stronger than before.",
+    "image": "258.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, magenta, yellow, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

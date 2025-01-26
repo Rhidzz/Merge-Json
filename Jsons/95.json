@@ -1,0 +1,15 @@
+{
+    "name": "96. Let Me Come",
+    "description": "Let me come as I am raw, vulnerable, and unguarded. There's no need for masks, no need for pretenses. In your presence, I can finally be the person I've always longed to be, without fear or hesitation.",
+    "image": "96.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, orange, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

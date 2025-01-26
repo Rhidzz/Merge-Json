@@ -1,0 +1,15 @@
+{
+    "name": "387. Out of Place, In My Own Skin",
+    "description": "There are times when I feel out of place, like I'm not meant to fit into this world that's so fast-paced and unforgiving. But in my own skin, I find peace. I might feel different, but this is who I am, and I am learning to be comfortable in my own body, regardless of how the world sees me.",
+    "image": "387.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple, teal, turquoise, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

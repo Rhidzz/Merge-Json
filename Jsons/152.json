@@ -1,0 +1,15 @@
+{
+    "name": "153. Across the Universe",
+    "description": "Our love stretches beyond what the eye can see, reaching across the universe, touching the stars. It's boundless, limitless, a force that can never be contained. No distance, no time can ever change the connection we share.",
+    "image": "153.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, teal, turquoise, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

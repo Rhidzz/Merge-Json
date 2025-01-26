@@ -1,0 +1,15 @@
+{
+    "name": "166. Only in Your Arms",
+    "description": "In your arms, I find my safe place, my refuge from the chaos of the world. There's a peace that comes from being wrapped in your embrace, a quiet that fills me even when the world is loud. Only in your arms do I feel like I truly belong.",
+    "image": "166.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, orange, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

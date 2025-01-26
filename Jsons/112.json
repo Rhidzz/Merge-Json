@@ -1,0 +1,15 @@
+{
+    "name": "113. Timeless Love",
+    "description": "Love like this doesn't fade with time; it only grows stronger with every passing day. It's the kind of love that transcends all things, lasting forever in our hearts. Timeless love is a bond that can never be broken, no matter how much time passes.",
+    "image": "113.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, orange, purple, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

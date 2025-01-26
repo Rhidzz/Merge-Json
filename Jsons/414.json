@@ -1,0 +1,15 @@
+{
+    "name": "415. Walking Alone, Together",
+    "description": "I often walk alone, navigating a world that doesn't always make space for me, but I'm never truly alone. The people who see me for who I am, who walk with me in spirit, make this journey worthwhile. Walking alone, together is a reminder that even when the path is solitary, there's always connection, always support.",
+    "image": "415.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, yellow, dark blue, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

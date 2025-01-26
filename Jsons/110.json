@@ -1,0 +1,15 @@
+{
+    "name": "111. Underneath the Stars",
+    "description": "Beneath the vast sky, I find myself lost in the beauty of the night, but it's your presence that makes it all feel like home. Underneath the stars, I realize that no matter where life takes us, this moment will always be ours. Here, under the stars, we are infinite.",
+    "image": "111.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, red, white, green, yellow, black, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "395. Feeling Out of Sync",
+    "description": "There are times when I feel completely out of sync with the world, like I'm moving to a different beat. Everything feels a little off, like I don't quite fit, and yet, I've learned that it's okay to move at my own pace. Feeling out of sync isn't failure it's a reminder that I'm unique, that I have my own rhythm.",
+    "image": "395.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, light, black, blue, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

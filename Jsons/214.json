@@ -1,0 +1,15 @@
+{
+    "name": "215. In the Silence, We Love",
+    "description": "Sometimes, love doesn't need to be said. It's in the quiet moments, the looks we exchange, the touch that speaks louder than words ever could. In the silence, we love in ways that can't be explained.",
+    "image": "215.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, blue, green, black, purple, red, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

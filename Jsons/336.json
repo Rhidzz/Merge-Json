@@ -1,0 +1,15 @@
+{
+    "name": "337. Unspoken Desires",
+    "description": "There are desires within me that don't always find their way out into the world, things I long for but can't quite share. Living with a disability means having to communicate in ways that others may not understand. Unspoken desires fill me with longing, but they also fuel my drive to keep going, to keep reaching for what feels out of reach.",
+    "image": "337.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

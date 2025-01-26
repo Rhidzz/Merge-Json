@@ -1,0 +1,15 @@
+{
+    "name": "152. Feel the Love",
+    "description": "Feel the love that surrounds us, the kind that grows with every touch, every word, every moment we share. It's a warmth that fills every corner of my being, reminding me that love is all we need. Feel the love, and let it carry us through everything.",
+    "image": "152.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, yellow, red, purple, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

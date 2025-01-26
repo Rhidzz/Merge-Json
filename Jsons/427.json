@@ -1,0 +1,15 @@
+{
+    "name": "428. The Heart of the Outsider",
+    "description": "There's a certain strength in being the outsider, in standing apart from the crowd and seeing the world differently. My heart beats with the knowledge that being an outsider isn't a weakness it's a perspective that gives me a deeper understanding of life. The heart of the outsider is full of resilience, compassion, and a love for the world that's often overlooked.",
+    "image": "428.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

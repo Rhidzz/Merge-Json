@@ -1,0 +1,15 @@
+{
+    "name": "104. I See The World Differently",
+    "description": "Living with a disability has changed how I view everything. Where others see limitations, I see possibilities, and every challenge becomes an opportunity to grow. I see the world differently not as something that holds me back, but as something that has taught me to find strength in new, unexpected places.\n",
+    "image": "104.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, orange, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, water"
+        }
+    ]
+}

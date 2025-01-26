@@ -1,0 +1,15 @@
+{
+    "name": "241. Lessons Learned",
+    "description": "We've both stumbled, but with every mistake, we've learned something valuable. These lessons have shaped us, made us stronger, and shown us what truly matters. Lessons learned are not just memories they're the foundation for everything we will become.",
+    "image": "241.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gold"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, foil"
+        }
+    ]
+}

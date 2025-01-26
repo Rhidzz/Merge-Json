@@ -1,0 +1,15 @@
+{
+    "name": "456. Living Beyond the Norm",
+    "description": "I've never followed the norm, and I've learned that's where I thrive. The world tries to fit everyone into one box, but I've learned to live beyond it. Living beyond the norm means embracing the freedom to be myself, to create my own path, and to redefine what success looks like.",
+    "image": "456.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

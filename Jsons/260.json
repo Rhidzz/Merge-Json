@@ -1,0 +1,15 @@
+{
+    "name": "261. Hearts Unbroken",
+    "description": "No matter what life throws at us, our hearts remain unbroken. Every challenge, every hardship, has only made us stronger and more united. Hearts unbroken are not just resilient they're a testament to the love we share, which nothing can tear apart.",
+    "image": "261.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, pink, blue, white, gray, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

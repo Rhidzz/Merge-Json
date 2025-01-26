@@ -1,0 +1,15 @@
+{
+    "name": "230. So Hard Of Letting Go",
+    "description": "Letting go feels like an impossible task, like trying to move on while your heart still clings to what once was. The memories, the love, the way everything once felt how do you release that? It's so hard of letting go, but sometimes, it's the only way to grow.",
+    "image": "230.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, white, black, green, lime green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

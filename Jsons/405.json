@@ -1,0 +1,15 @@
+{
+    "name": "406. A World I Don't Fit Into",
+    "description": "Sometimes, it feels like I don't belong in the world around me, like my presence is misunderstood or unseen. But I've learned that I don't need to fit into a world that wasn't made for me. I'm carving out my own space, one where I can exist as I am, different but whole.",
+    "image": "406.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

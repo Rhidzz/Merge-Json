@@ -1,0 +1,15 @@
+{
+    "name": "26. Power Over Me",
+    "description": "You have a way of breaking down my walls, leaving me vulnerable yet safe all at once. There's a pull, a strength in your presence that I can't resist. It's not control it's the way you make me feel seen, known, and completely yours.",
+    "image": "26.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gold"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

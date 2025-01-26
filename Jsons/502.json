@@ -1,0 +1,15 @@
+{
+    "name": "503. Living Beyond the Boundaries",
+    "description": "I've always felt like I didn't fit within the lines the world drew for me and I'm okay with that. Living beyond the boundaries means creating my own path, one that feels right for me, even if it's different from what others expect. It's about freedom freedom to be who I am without apology.",
+    "image": "503.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, black, brown"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

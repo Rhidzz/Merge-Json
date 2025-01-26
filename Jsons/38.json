@@ -1,0 +1,15 @@
+{
+    "name": "39. Here Now, Just Leave",
+    "description": "I'm standing right in front of you, present and fully here, but sometimes, the hardest thing is knowing when to walk away. I'm here now, but if you can't see me, if you can't truly be with me, maybe it's time to just leave.",
+    "image": "39.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, yellow, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

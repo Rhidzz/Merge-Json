@@ -1,0 +1,15 @@
+{
+    "name": "471. Living in the Unknown",
+    "description": "The unknown can be a frightening place, but I've learned to live there with courage. It's in the unknown that I've discovered new parts of myself, learned to trust the journey, and embraced uncertainty as a chance for growth. Living in the unknown means finding strength in not knowing what comes next.",
+    "image": "471.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, tan, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

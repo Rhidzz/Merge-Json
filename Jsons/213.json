@@ -1,0 +1,15 @@
+{
+    "name": "214. A Love That Lasts",
+    "description": "A love like ours doesn't fade it only deepens over time. Through the ups and downs, we've only become more connected, more sure of what we share. A love that lasts is the one thing in life I know will always be real.",
+    "image": "214.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, light blue, dark blue, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

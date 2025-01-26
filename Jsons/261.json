@@ -1,0 +1,15 @@
+{
+    "name": "262. The Road Ahead",
+    "description": "We don't know exactly where the road ahead will take us, but I'm not afraid. With you by my side, every step feels like the right one. The road ahead may be uncertain, but together, we'll walk it with confidence, love, and trust.",
+    "image": "262.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, gray, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, glitter"
+        }
+    ]
+}

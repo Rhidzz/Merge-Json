@@ -1,0 +1,15 @@
+{
+    "name": "74. Reflecting on How Much We've Grown",
+    "description": "Looking back, it's impossible not to see how far we've come. The hurdles we've crossed, the lessons we've learned together, we've grown in ways we never imagined. And it's only the beginning.",
+    "image": "74.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, gray, turquoise, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

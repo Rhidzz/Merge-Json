@@ -1,0 +1,15 @@
+{
+    "name": "207. A Place in Your Heart",
+    "description": "I just want to have a place in your heart, somewhere I'm always welcome no matter what's going on around us. It's not about perfection, just about knowing that we belong to each other in the deepest way. A place in your heart is all I need to feel truly at home.",
+    "image": "207.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, silver, tan, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

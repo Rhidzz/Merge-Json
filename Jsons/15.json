@@ -1,0 +1,15 @@
+{
+    "name": "16. It Isnt Over",
+    "description": "Our story doesn't end here not with the struggles, the doubts, or the moments that tried to break us. Love like ours isn't so easily undone. It isn't over because we're still here, still holding on, and still believing in what we can be.",
+    "image": "16.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, red, gray, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

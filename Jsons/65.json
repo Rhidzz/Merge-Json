@@ -1,0 +1,15 @@
+{
+    "name": "66. Running in the Shadows",
+    "description": "I've always moved in silence, running in the shadows where no one can follow. But there's strength in the darkness, a quiet kind of power that pushes me forward, even when the world doesn't see me.",
+    "image": "66.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, pink, black, yellow, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

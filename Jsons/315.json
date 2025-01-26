@@ -1,0 +1,15 @@
+{
+    "name": "316. Unraveled Inside",
+    "description": "Sometimes, I feel unraveled inside like I'm coming apart at the seams, struggling to hold everything together. The world isn't always kind to those who are differently-abled, and it can be overwhelming. But even when I feel unraveled, I find strength in the pieces, knowing they are part of the whole that makes me who I am.",
+    "image": "316.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

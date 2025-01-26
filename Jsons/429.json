@@ -1,0 +1,15 @@
+{
+    "name": "430. A Soul Set Apart",
+    "description": "My soul has always felt set apart, different from the rest of the world. I've learned that this separation isn't a curse; it's what makes me unique, giving me the space to grow and understand life from my own perspective. A soul set apart is a soul with its own story, and I'm learning to love every chapter of it.",
+    "image": "430.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

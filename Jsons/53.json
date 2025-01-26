@@ -1,0 +1,15 @@
+{
+    "name": "54. You Watch, and I Bare My Soul",
+    "description": "When you look at me, it feels like you see right through all the walls I've built. You watch, and I bare my soul, vulnerable and open. It's scary, but with you, it feels like the safest thing I can do.",
+    "image": "54.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, yellow, white, red, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

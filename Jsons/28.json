@@ -1,0 +1,15 @@
+{
+    "name": "29. There's No One In The Room But You",
+    "description": "In a crowded world, you're the only one I see. Your presence drowns out the noise, and in this moment, it's just us. No distractions, no barriers just you, and the way you make everything else disappear.",
+    "image": "29.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, magenta, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

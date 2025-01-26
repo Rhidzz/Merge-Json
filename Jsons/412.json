@@ -1,0 +1,15 @@
+{
+    "name": "413. Awakening the Unique",
+    "description": "The journey to discovering my uniqueness has been one of awakening, of learning to embrace everything that makes me who I am. In a world that tries to fit everyone into boxes, I've learned that my true power lies in my individuality. Awakening the unique is about celebrating who I am, unapologetically.",
+    "image": "413.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

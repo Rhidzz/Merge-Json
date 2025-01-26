@@ -1,0 +1,15 @@
+{
+    "name": "240. Love Beyond Boundaries",
+    "description": "Our love has no boundaries it stretches beyond time, beyond distance, beyond anything that tries to stand in its way. It's a force that keeps growing, no matter what. Love beyond boundaries is the kind of love that lasts, even when everything else feels uncertain.",
+    "image": "240.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, yellow, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

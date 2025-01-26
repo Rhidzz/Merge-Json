@@ -1,0 +1,15 @@
+{
+    "name": "419. Unseen and Undeterred",
+    "description": "I may be unseen by many, but I am undeterred. The world doesn't always recognize my worth, but I know it, and that's all that matters. Unseen and undeterred means I keep going, no matter what, because I believe in myself and the path I'm carving.",
+    "image": "419.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, gray, pink, green, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "gems, drips, brush strokes, saturated"
+        }
+    ]
+}

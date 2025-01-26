@@ -1,0 +1,15 @@
+{
+    "name": "190. Deep within Your Eyes",
+    "description": "When I look into your eyes, I see more than just the surface. I see the depth of your soul, the quiet strength, and the love that holds me together. Deep within your eyes is a world I never want to leave, one that makes me feel truly seen.",
+    "image": "190.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "472. The Power of Quiet Differences",
+    "description": "My differences may be quiet, not always seen or recognized by the world, but they hold power. These quiet differences are what make me unique, allowing me to connect with the world in my own special way. The power of quiet differences is the ability to stand firm in who I am, even when the world doesn't understand.",
+    "image": "472.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

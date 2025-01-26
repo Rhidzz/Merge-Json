@@ -1,0 +1,15 @@
+{
+    "name": "73. Love Me Like It's Our Last",
+    "description": "Love like it's the last time you'll ever have the chance. No holding back, no second-guessing just all in, all heart. Love me like it's our last chance to feel this, because moments like this are too precious to waste.",
+    "image": "73.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, yellow, white, black, magenta"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

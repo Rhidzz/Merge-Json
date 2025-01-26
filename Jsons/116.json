@@ -1,0 +1,15 @@
+{
+    "name": "117. Endless Desire",
+    "description": "There's no end to the desire I feel for you, a longing that only grows with time. It's more than just passion; it's the deep, undeniable pull of two souls bound together. In your presence, I find a desire that never fades, only burns brighter.",
+    "image": "117.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, white, gray, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, water"
+        }
+    ]
+}

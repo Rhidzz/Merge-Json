@@ -1,0 +1,15 @@
+{
+    "name": "497. Living My Truth",
+    "description": "Living my truth means being authentic, even when it's hard. It's about being honest with myself and the world, accepting who I am without fear. Living my truth is the freedom to show up as myself, without apology or compromise.",
+    "image": "497.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, dark blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

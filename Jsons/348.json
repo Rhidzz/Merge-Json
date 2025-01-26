@@ -1,0 +1,15 @@
+{
+    "name": "349. Feeling You Everywhere",
+    "description": "There are times when I feel you everywhere your love, your energy, your presence, even when you're not near. Living with a disability means feeling things in ways that others might not, and your presence fills the spaces between us. Feeling you everywhere reminds me that no matter the distance, we're always connected.",
+    "image": "349.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

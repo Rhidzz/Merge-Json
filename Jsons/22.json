@@ -1,0 +1,15 @@
+{
+    "name": "23. Silence is So Loud",
+    "description": "It's in the quiet that I hear everything the unspoken words, the emotions we try to hide, the truth we can't escape. Silence between us isn't empty; it's full of all the things we're too afraid to say.",
+    "image": "23.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, purple, yellow, white, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

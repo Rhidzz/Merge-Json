@@ -1,0 +1,15 @@
+{
+    "name": "313. Tears in the Silence",
+    "description": "Sometimes, the tears come when no one is watching, in the silence where I can feel everything I'm carrying. Being differently-abled means feeling the weight of the world in a way others don't always see. These tears aren't weakness they're a release, a way to let go of the pain and keep moving forward.",
+    "image": "313.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "dark blue, light blue, black, white, salmon"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

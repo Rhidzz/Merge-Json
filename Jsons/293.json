@@ -1,0 +1,15 @@
+{
+    "name": "294. The Weight of Empathy",
+    "description": "I feel everything so deeply sometimes it's like I can carry the weight of the world. Living with a disability means I see things through a different lens, and empathy becomes part of who I am. It's heavy sometimes, but it's also beautiful because it connects me to others in a way nothing else does.",
+    "image": "294.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, white, pink, teal, tan, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

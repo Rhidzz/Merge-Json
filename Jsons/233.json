@@ -1,0 +1,15 @@
+{
+    "name": "234. I Feel Like I Belong",
+    "description": "In your presence, I finally feel like I belong like I've found the place where my heart can rest. Everything that once felt uncertain now makes sense, and I know that with you, I am where I am meant to be. I feel at home in a way I never thought was possible.",
+    "image": "234.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

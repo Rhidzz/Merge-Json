@@ -1,0 +1,15 @@
+{
+    "name": "243. Breaking Through the Walls",
+    "description": "We've built walls to protect ourselves, but now it's time to break through them. It's in vulnerability that we truly find strength, and together, we've started tearing down the barriers. Breaking through the walls means stepping into the truth of who we are.",
+    "image": "243.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, pink, white, red, blue, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

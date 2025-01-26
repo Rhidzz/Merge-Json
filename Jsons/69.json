@@ -1,0 +1,15 @@
+{
+    "name": "70. Only You in the Room",
+    "description": "In the crowd, there's only one person I see only you. When you're near, the world fades away, and all that matters is the space we share, the connection we have. It's just you, and I wouldn't have it any other way.",
+    "image": "70.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, orange, purple, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, encaustic"
+        }
+    ]
+}

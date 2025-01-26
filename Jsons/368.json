@@ -1,0 +1,15 @@
+{
+    "name": "369. Lost in the Tides",
+    "description": "Sometimes, I feel lost in the tides of emotion, pulled under by feelings I can't control. The currents shift, dragging me between joy and sadness, hope and doubt. But even in the storm, I know I'll rise again, learning to navigate the tides and find my way back to solid ground.",
+    "image": "369.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, orange, light blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

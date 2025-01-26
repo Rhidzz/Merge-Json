@@ -1,0 +1,15 @@
+{
+    "name": "400. Not Like the Rest",
+    "description": "I'm not like the rest, and that's exactly how it's meant to be. I've never quite fit into the mold, and I've learned to embrace that. Not like the rest means I'm forging my own path, creating a space where I can be exactly who I am, without apology or explanation.\n",
+    "image": "400.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

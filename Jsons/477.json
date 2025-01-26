@@ -1,0 +1,15 @@
+{
+    "name": "478. A Journey of Freedom",
+    "description": "My journey is one of freedom not just physical freedom, but freedom from the expectations of others. It's about embracing my own path, letting go of what others think, and finding peace in my own choices. A journey of freedom means living life on my terms, unapologetically and fully.",
+    "image": "478.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, salmon, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

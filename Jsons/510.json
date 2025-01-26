@@ -1,0 +1,15 @@
+{
+    "name": "511. In the Light of Who I Am",
+    "description": "When I embrace the light within me, everything else falls into place. I've spent too long hiding parts of myself in the shadows, but now I stand tall, knowing I have something beautiful to offer. In the light of who I am, I feel confident, loved, and ready to share my truth with the world.",
+    "image": "511.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, black, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "244. Rising from the Ashes",
+    "description": "What's broken can be rebuilt, what's lost can be found, and from the ashes, we rise. Every challenge, every hardship, has made us who we are today stronger, braver, and more determined. Rising from the ashes is just the beginning of our story.",
+    "image": "244.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, orange, pink, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

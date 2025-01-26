@@ -1,0 +1,15 @@
+{
+    "name": "289. Lost in My Feelings",
+    "description": "There are days when I feel lost in my feelings, like I'm caught in a current that's too strong to swim against. I try to make sense of it all, but sometimes, it just overwhelms me. Yet, in this chaos, I learn more about myself than I ever thought possible. Being lost isn't always bad it means I'm still learning and growing.",
+    "image": "289.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange, pink, blue, light blue, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

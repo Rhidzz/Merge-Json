@@ -1,0 +1,15 @@
+{
+    "name": "392. A Quiet Strength",
+    "description": "My strength isn't loud or flashy, but it's there, steady and unwavering. It's in the way I keep going, even when the world doesn't understand. A quiet strength is the kind that builds over time, shaped by every challenge, every moment of doubt, and every victory that no one else may see.",
+    "image": "392.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, brown, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated, gems"
+        }
+    ]
+}

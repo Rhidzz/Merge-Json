@@ -1,0 +1,15 @@
+{
+    "name": "371. Embracing the Chaos",
+    "description": "Life doesn't always follow a straight path, and sometimes, the chaos feels like it might swallow me whole. But I've learned to embrace the chaos, to let it shape me, rather than break me. Embracing the chaos is not surrendering to it it's finding peace in the mess and learning to thrive in uncertainty.",
+    "image": "371.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black, "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

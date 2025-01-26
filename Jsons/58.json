@@ -1,0 +1,15 @@
+{
+    "name": "59. I Should've Known Better",
+    "description": "There were signs, there were moments when I should've listened to my heart, but I didn't. I should've known better, but here I am, learning from the choices I've made. Still, I wouldn't change it because it brought me to where I am now and maybe, that's enough.",
+    "image": "59.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, black, tan, white, gray, teal"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

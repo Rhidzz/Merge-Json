@@ -1,0 +1,15 @@
+{
+    "name": "1. 1. Don't Forget My Love",
+    "description": "Love isn't just a feeling; it's the force that keeps me going when the world feels too heavy. It's in the quiet moments, the deep breaths, and the reminders that no matter what, I'm still here, still fighting, still loving. Don't forget my love it's real, raw, and unbreakable.",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, green, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

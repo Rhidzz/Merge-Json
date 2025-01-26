@@ -1,0 +1,15 @@
+{
+    "name": "331. In the Wake of Emotion",
+    "description": "After the storm of emotions, I stand in the wake, trying to make sense of everything I've felt. Being differently-abled means that my emotions can sometimes be more than I can handle, but I've learned to sit with them. In the wake of emotion, I find the lessons, the growth, and the strength to keep moving forward.",
+    "image": "331.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, gray, light pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

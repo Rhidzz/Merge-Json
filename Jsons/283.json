@@ -1,0 +1,15 @@
+{
+    "name": "284. A Love Worth Fighting For",
+    "description": "Through every storm, every trial, I know that our love is worth fighting for. It's not always easy, but it's always worth it because you are worth it. A love worth fighting for is the kind that endures, grows, and becomes unbreakable.",
+    "image": "284.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, green, pink, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

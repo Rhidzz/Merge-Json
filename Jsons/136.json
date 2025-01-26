@@ -1,0 +1,15 @@
+{
+    "name": "137. Beyond the Stars",
+    "description": "Our love is written in the stars, shining brighter than anything the universe could offer. Beyond the stars, there's a place where only you and I exist, where love is infinite and forever. Together, we are bound by a love that transcends time and space.",
+    "image": "137.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, gray, white, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

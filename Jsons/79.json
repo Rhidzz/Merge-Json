@@ -1,0 +1,15 @@
+{
+    "name": "80. Here and Now, But Leave When It's Time",
+    "description": "I'm here, in this moment with you, but I know when it's time to let go. We're living in the here and now, but sometimes love means knowing when it's time to walk away, even when it's hard.",
+    "image": "80.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, magenta, tan, black, white, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

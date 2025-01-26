@@ -1,0 +1,15 @@
+{
+    "name": "110. The Silent Embrace",
+    "description": "There are moments when no words are needed, when your embrace says everything my heart can't express. In the silence, I find comfort, knowing that we are connected beyond what can be said. It's in these quiet moments where love speaks the loudest.",
+    "image": "110.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, orange, gray, blue, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

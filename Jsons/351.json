@@ -1,0 +1,15 @@
+{
+    "name": "352. A Heart in Conflict",
+    "description": "My heart often feels like a battleground, torn between emotions, desires, and fears. There are days when it's hard to reconcile the love I feel with the doubts that cloud my mind. But in this conflict, I've found resilience, a reminder that even the strongest hearts face struggles.",
+    "image": "352.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, red, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

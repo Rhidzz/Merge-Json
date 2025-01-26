@@ -1,0 +1,15 @@
+{
+    "name": "266. The World Turns with You",
+    "description": "In your love, I find my center, my balance. When everything else feels out of control, the world turns with you, keeping me grounded. You are my constant, the one thing I know will always be there, no matter what changes around us.",
+    "image": "266.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, white, black, yellow, orange, red"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

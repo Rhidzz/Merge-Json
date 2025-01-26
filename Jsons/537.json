@@ -1,0 +1,15 @@
+{
+    "name": "538. Free to Dream",
+    "description": "I am free to dream without fear, without limits. The possibilities are endless, and I have the power to create whatever I desire. Free to dream means allowing myself to hope, to envision a future full of possibilities, and to take the steps necessary to make those dreams a reality.",
+    "image": "538.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, yellow, black, lime green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "513. Owning My Power",
+    "description": "I've spent years doubting myself, but now I own my power fully. I no longer shy away from who I am and what I bring to the table. Owning my power means trusting that I have everything I need to create the life I want and the courage to move forward, no matter the challenges.",
+    "image": "513.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, turquoise, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

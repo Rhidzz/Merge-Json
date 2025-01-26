@@ -1,0 +1,15 @@
+{
+    "name": "191. Soulful Embrace",
+    "description": "There's an embrace that goes beyond the physical, one that wraps around my soul and holds me in a way nothing else can. In your arms, I find comfort, peace, and a love that is timeless. A soulful embrace is the connection that holds us together, even in the hardest times.",
+    "image": "191.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, purple, blue, red, black, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

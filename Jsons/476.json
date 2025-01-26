@@ -1,0 +1,15 @@
+{
+    "name": "477. Embracing My True Self",
+    "description": "Embracing my true self hasn't always been easy, but it's been the most freeing thing I've done. I no longer need to hide parts of myself to fit in or to please others. My true self is strong, unique, and worthy of love, and I'm proud to be exactly who I am.",
+    "image": "477.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "turquoise, salmon, teal, pink, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

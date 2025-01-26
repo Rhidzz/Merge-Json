@@ -1,0 +1,15 @@
+{
+    "name": "388. Unseen But Here",
+    "description": "Sometimes, I feel unseen, like I don't exist in the way others do, like my struggles aren't as visible or understood. But I am here, always, learning to stand in my truth, even when no one else sees it. Unseen but here, I carry my own weight, my own strength, and I know my worth, even if others don't.",
+    "image": "388.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, gray, black, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

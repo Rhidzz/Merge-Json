@@ -1,0 +1,15 @@
+{
+    "name": "198. The Beat of My Heart",
+    "description": "Every beat of my heart is a reminder of the love I have for you. It's steady, it's constant, and it's full of all the emotions I can't always express. The beat of my heart tells you everything you need to know my love, my devotion, my truth.",
+    "image": "198.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, yellow, blue, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

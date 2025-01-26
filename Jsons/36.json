@@ -1,0 +1,15 @@
+{
+    "name": "37. Take It Slow",
+    "description": "Let's savor each moment, letting things unfold at their own pace. No rush, no pressure just us, enjoying the quiet beauty of what we're building together. Every step we take feels like it's exactly where we need to be",
+    "image": "37.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, black, white, pink, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

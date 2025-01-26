@@ -1,0 +1,15 @@
+{
+    "name": "19. Should've Known Better",
+    "description": "My heart knew the risks, but I let it lead anyway. Maybe I should've known better, but loving you felt worth every lesson, every tear, and every memory we created along the way.",
+    "image": "19.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

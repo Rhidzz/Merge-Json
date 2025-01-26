@@ -1,0 +1,15 @@
+{
+    "name": "270. Beyond All Doubt",
+    "description": "I love you beyond all doubt, through every question and every uncertainty. My heart knows what my mind can't always understand. Beyond all doubt, this love is real, and it's the only thing I can hold onto when everything else seems unclear.",
+    "image": "270.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, white, green, lime green, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

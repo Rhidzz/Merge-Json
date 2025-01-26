@@ -1,0 +1,15 @@
+{
+    "name": "5. 5. Wearing Fake Smiles",
+    "description": "Behind every forced grin is a story untold, a struggle unseen. Sometimes, the easiest way to get through the day is to pretend everything's fine, even when it's not. But these fake smiles? They're just placeholders for the strength I'm still building.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, blue, green, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "495. Rising Above the Noise",
+    "description": "The noise of the world can be deafening, but I've learned to rise above it. I find my clarity in the quiet, in the spaces where I can hear my own voice. Rising above the noise means choosing my own path, my own truth, and not letting the distractions pull me off course.\n",
+    "image": "495.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, salmon, blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

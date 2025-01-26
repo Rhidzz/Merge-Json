@@ -1,0 +1,15 @@
+{
+    "name": "185. Together as One",
+    "description": "Through all the pain, all the struggles, we stand together as one. Our hearts beat as one, our souls entwined, creating a bond that nothing can break. Together, we are unstoppable, a force of love that moves mountains.",
+    "image": "185.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

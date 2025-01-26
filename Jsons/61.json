@@ -1,0 +1,15 @@
+{
+    "name": "62. No Signal, Just Me",
+    "description": "In a world that's constantly connected, I find peace in the quiet moments. No signal, just me, left to breathe and reconnect with who I am. Sometimes, it's in the silence that I hear myself the clearest.",
+    "image": "62.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, blue, yellow, white, black "
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

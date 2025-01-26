@@ -1,0 +1,15 @@
+{
+    "name": "416. My Truth is Enough",
+    "description": "I've spent so much of my life seeking approval, trying to fit into expectations that weren't meant for me. But now, I know my truth is enough. It doesn't need to be validated by anyone else it's mine, and it's all I need to be whole.",
+    "image": "416.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, turquoise, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

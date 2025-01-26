@@ -1,0 +1,15 @@
+{
+    "name": "3. 3. Can You Hear Me",
+    "description": "Sometimes, my voice feels like a whisper in a world that moves too fast to listen. But I keep speaking, hoping someone will hear the truth in my words, the strength in my silence, and the story my soul is telling. Can you hear me now?",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, white, drips"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

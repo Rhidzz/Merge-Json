@@ -1,0 +1,15 @@
+{
+    "name": "541. Embracing What's to Come",
+    "description": "The future is full of uncertainty, but I've learned to embrace what's to come, knowing that every new chapter is a chance for growth. I no longer fear the unknown, for I trust that it holds endless possibilities. Embracing what's to come means surrendering to the journey and welcoming whatever unfolds.",
+    "image": "541.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, gray, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

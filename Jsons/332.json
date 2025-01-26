@@ -1,0 +1,15 @@
+{
+    "name": "333. Heartfelt Confusion",
+    "description": "There are times when confusion fills my heart, when nothing seems clear, and everything feels up in the air. Living with a disability means that I have to navigate a world that doesn't always fit me. But in this confusion, I've learned to trust myself, to know that I'll find clarity in time, one step at a time.",
+    "image": "333.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, pink, white, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

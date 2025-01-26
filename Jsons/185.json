@@ -1,0 +1,15 @@
+{
+    "name": "186. Embrace of Eternity",
+    "description": "In your arms, I find eternity. Every moment spent with you feels like a lifetime, and every touch feels like it lasts forever. The embrace of eternity is not just a dream; it's the love we share that will never fade.",
+    "image": "186.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, red, blue, white, orange, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

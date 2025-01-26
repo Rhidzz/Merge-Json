@@ -1,0 +1,15 @@
+{
+    "name": "346. Lost in the Noise",
+    "description": "There are times when the noise of the world drowns everything else out, and I feel lost in it. Living with a disability means facing a world that's sometimes too fast, too loud, and too overwhelming. But in the midst of the noise, I find a space for myself, a place where I can breathe and hear my own thoughts.",
+    "image": "346.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, dark blue, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

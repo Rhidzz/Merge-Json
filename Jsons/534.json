@@ -1,0 +1,15 @@
+{
+    "name": "535. Reaching New Heights",
+    "description": "Every step I take brings me closer to reaching new heights. There have been challenges, but each one has taught me something valuable, pushing me further than I thought possible. Reaching new heights means believing in myself, knowing that I have the strength to overcome anything that comes my way.",
+    "image": "535.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, red, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

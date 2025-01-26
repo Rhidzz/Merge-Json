@@ -1,0 +1,15 @@
+{
+    "name": "300. The Depths of My Mind",
+    "description": "My mind is deep, filled with thoughts and feelings that take time to understand. Living with a disability means seeing the world through a unique lens, one that not everyone understands. The depths of my mind are where I learn, grow, and find clarity in the messiness of it all.",
+    "image": "300.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, orange, pink, purple, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

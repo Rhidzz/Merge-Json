@@ -1,0 +1,15 @@
+{
+    "name": "131. Swept Away by You",
+    "description": "With every glance, every smile, you sweep me away, taking me to places I never thought I'd go. I'm lost in the magic of you, surrendering to a love so powerful, so real. Swept away by you, I feel like I've found my forever.",
+    "image": "131.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, blue, black, gray, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

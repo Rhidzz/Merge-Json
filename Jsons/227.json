@@ -1,0 +1,15 @@
+{
+    "name": "228. Hold Me When I'm Home",
+    "description": "When I come home to you, hold me like it's been forever, like you've missed me as much as I've missed you. Your arms are my safe place, my sanctuary. Hold me when I'm home, because that's where I truly feel like myself.",
+    "image": "228.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, orange, black, yellow"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

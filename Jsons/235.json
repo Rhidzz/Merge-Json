@@ -1,0 +1,15 @@
+{
+    "name": "236. Echoes of Our Souls",
+    "description": "Our souls speak to each other in ways words never could. Every glance, every touch is an echo of a deeper connection, one that transcends the physical. The echoes of our souls remind me that we are more than just two people; we are something timeless.",
+    "image": "236.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, gray, red, purple, yellow, pink, dark green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

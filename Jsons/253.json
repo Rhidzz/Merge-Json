@@ -1,0 +1,15 @@
+{
+    "name": "254. The Quiet of Your Love",
+    "description": "Your love doesn't need to shout it speaks in the quiet moments, in the way you hold me, the way you listen, the way you care. In the quiet of your love, I find peace, comfort, and everything I've been searching for. It's in your quietness that I feel the loudest love.",
+    "image": "254.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

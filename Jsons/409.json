@@ -1,0 +1,15 @@
+{
+    "name": "410. The Fragility of Strength",
+    "description": "Strength isn't always about being unbreakable it's about learning to bend, to adapt, and to rise again. There's fragility in strength, the understanding that it's okay to be vulnerable, to struggle, and still find a way to keep going. The fragility of strength is what makes it beautiful, real, and enduring.",
+    "image": "410.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

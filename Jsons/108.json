@@ -1,0 +1,15 @@
+{
+    "name": "109. Lost in the Waves",
+    "description": "I've drowned in the waves of my own emotions, pulled under by the depth of my feelings for you. But in the midst of the storm, I've found peace in the way you make me feel seen. Even lost, I know I'm not alone.",
+    "image": "109.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, red, yellow, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

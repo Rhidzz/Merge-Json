@@ -1,0 +1,15 @@
+{
+    "name": "407. The Power of Vulnerability",
+    "description": "Being vulnerable doesn't make me weak it makes me powerful. It's in the moments of honesty, when I let my guard down, that I find my true strength. The power of vulnerability is the courage to face my fears, to share my truth, and to stand proud in who I am.",
+    "image": "407.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, black, white, pink, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

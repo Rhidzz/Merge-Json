@@ -1,0 +1,15 @@
+{
+    "name": "72. Everything I Know",
+    "description": "Everything I know has brought me to this point. Every mistake, every triumph, every heartache each lesson has shaped who I am today. And in this moment, I wouldn't change a thing.",
+    "image": "72.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, white, black, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

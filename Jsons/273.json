@@ -1,0 +1,15 @@
+{
+    "name": "274. Wrapped in a Dream",
+    "description": "Being with you feels like being wrapped in a dream, where everything is perfect, and nothing else matters. It's not an escape it's the reality I've always wanted. Wrapped in a dream, I find everything I need, everything I've ever dreamed of.",
+    "image": "274.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

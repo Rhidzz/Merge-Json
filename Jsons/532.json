@@ -1,0 +1,15 @@
+{
+    "name": "533. Awakening to My Own Truth",
+    "description": "I've been asleep for too long, living for others, letting their expectations define me. But now, I am awakening to my own truth, to the person I've always been meant to be. Awakening to my own truth means shedding the layers that were never mine, and embracing who I truly am.",
+    "image": "533.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, black, red, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

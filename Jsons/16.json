@@ -1,0 +1,15 @@
+{
+    "name": "17. Body To Body",
+    "description": "In the quiet moments when it's just us, no words are needed. The warmth of your touch, the rhythm of your breath it's where I feel most alive. Body to body, heart to heart, this is where love speaks louder than anything else.",
+    "image": "17.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, yellow, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

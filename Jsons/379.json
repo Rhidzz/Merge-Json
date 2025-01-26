@@ -1,0 +1,15 @@
+{
+    "name": "380. Wandering Through You",
+    "description": "Sometimes, I feel like I'm wandering through you, trying to understand the spaces where our worlds meet. Living with a disability means navigating a world that wasn't built for me, and I find myself learning from your love, your patience, and your understanding. Wandering through you, I find my strength, my connection, and the ability to keep moving forward.",
+    "image": "380.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple, teal, black, pink, brown"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

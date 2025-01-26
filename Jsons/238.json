@@ -1,0 +1,15 @@
+{
+    "name": "239. Let's Take It Slow",
+    "description": "There's no rush when it comes to love we've got all the time we need. Let's take it slow, savoring every step of the journey we're on. In each quiet moment, I find more of you, and I want to take my time to learn everything about us.",
+    "image": "239.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, black, gray, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

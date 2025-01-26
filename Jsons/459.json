@@ -1,0 +1,15 @@
+{
+    "name": "460. Untamed and True",
+    "description": "I am untamed in my spirit, true to who I am without apology. The world might try to tame me, to fit me into boxes, but I remain wild and free, living authentically. Untamed and true means standing firm in my uniqueness, embracing everything that makes me who I am.",
+    "image": "460.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, gray, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

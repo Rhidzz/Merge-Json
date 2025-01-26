@@ -1,0 +1,15 @@
+{
+    "name": "232. When Sadness Rains",
+    "description": "Sadness can pour down like a storm, flooding every part of you until you feel like you'll drown. But even when it rains, I know that somewhere, the sun is waiting to break through. When sadness rains, we must wait for the calm after the storm, knowing that brighter days are ahead.",
+    "image": "232.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, red, yellow, dark blue, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

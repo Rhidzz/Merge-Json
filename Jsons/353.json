@@ -1,0 +1,15 @@
+{
+    "name": "354. Stuck in Time",
+    "description": "At times, I feel stuck, like time is moving forward while I remain in place, lost in the current. The world spins quickly around me, but I'm learning to find my own pace. Being stuck in time isn't failure it's simply a pause, a moment to reflect and gather strength.",
+    "image": "354.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, gray, pink, dark blue, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

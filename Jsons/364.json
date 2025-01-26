@@ -1,0 +1,15 @@
+{
+    "name": "365. Embracing the Storm",
+    "description": "The storm inside me is wild and untamed, filled with emotions that I can't always control. But instead of running from it, I've learned to embrace the storm, to let it teach me about my own strength. Embracing the storm doesn't mean surrendering it means finding peace in the chaos and learning to dance in the rain.",
+    "image": "365.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, blue, gray, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

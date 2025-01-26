@@ -1,0 +1,15 @@
+{
+    "name": "277. The Space Between Us",
+    "description": "There's a space between us, but it's not one that keeps us apart it's where we grow, learn, and discover the depth of our love. It's in the quiet moments, the unspoken words, where we find our truest connection. The space between us only makes us stronger, teaching us that love transcends distance.",
+    "image": "277.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, saturated"
+        }
+    ]
+}

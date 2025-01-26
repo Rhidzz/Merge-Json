@@ -1,0 +1,15 @@
+{
+    "name": "339. Where Feelings Meet",
+    "description": "Feelings don't always make sense, but they come together in moments of clarity. It's in these moments where my heart and mind collide, where everything I've felt finally comes together in a way that makes me who I am. Where feelings meet, I find understanding, even if it's just for a moment.",
+    "image": "339.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, yellow, red, pink, orange, green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

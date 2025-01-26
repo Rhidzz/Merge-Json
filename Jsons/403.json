@@ -1,0 +1,15 @@
+{
+    "name": "404. Exposed and Free",
+    "description": "There's a freedom in being exposed, in showing the world who I truly am, without hiding behind expectations. Living authentically means being vulnerable, being real, even when it feels uncomfortable. Exposed and free is how I want to live, open to what comes next, without fear or shame.",
+    "image": "404.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, black, green, red, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

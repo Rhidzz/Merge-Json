@@ -1,0 +1,15 @@
+{
+    "name": "379. Thoughts in Motion",
+    "description": "My thoughts are always in motion, racing from one idea to the next, never stopping for a break. The world around me might slow down, but my mind is constantly moving, processing, reflecting. Thoughts in motion don't leave me restless they keep me alive, teaching me, pushing me forward, even when I can't keep up.",
+    "image": "379.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, purple, teal, black, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

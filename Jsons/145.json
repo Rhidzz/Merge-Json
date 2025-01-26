@@ -1,0 +1,15 @@
+{
+    "name": "146. In Your Presence",
+    "description": "In your presence, the world falls away, and all I feel is peace. It's as if time stands still when I'm near you, and nothing else matters. Your presence is all I need to feel complete, to feel whole.",
+    "image": "146.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Blue, white, gray, yellow, tan, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

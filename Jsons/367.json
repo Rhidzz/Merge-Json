@@ -1,0 +1,15 @@
+{
+    "name": "368. A Heart That Never Sleeps",
+    "description": "My heart beats tirelessly, even when the world is asleep. It carries the weight of love, of hope, of longing, never resting, never quiet. A heart that never sleeps doesn't find peace in silence it finds its rhythm in the quiet moments when everything else fades away.",
+    "image": "368.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, yellow, blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

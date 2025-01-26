@@ -1,0 +1,15 @@
+{
+    "name": "136. Forever Together",
+    "description": "Through all the ups and downs, the pain and the joy, I know we are meant to be. Forever together, our hearts will beat as one, enduring through every challenge life brings. There's nothing that could ever separate us.",
+    "image": "136.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, red, yellow, black, white, orange, pink, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

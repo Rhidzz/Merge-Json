@@ -1,0 +1,15 @@
+{
+    "name": "112. Heartbeats in Harmony",
+    "description": "In every heartbeat, I feel you, as if our souls are in perfect sync. The rhythm of your pulse matches mine, and in that harmony, I find the peace I've been searching for. Together, we are a song that never ends.",
+    "image": "112.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, yellow, black, white, lime green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "458. Feeling Every Edge",
+    "description": "I feel every edge, every sharp corner of life, deeply. The highs, the lows, the joy, and the pain they all shape who I am. Feeling every edge means that I'm living fully, embracing every experience with an open heart and an open mind.",
+    "image": "458.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, red, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

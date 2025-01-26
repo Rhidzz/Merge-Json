@@ -1,0 +1,15 @@
+{
+    "name": "411. Bare and Open",
+    "description": "I've learned that being bare and open isn't a weakness it's a power. To show the world who I am, with all my flaws and strengths, is the greatest act of courage I know. Being bare and open means I accept myself fully, unafraid of judgment, embracing all that I am.",
+    "image": "411.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, pink, purple, orange, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

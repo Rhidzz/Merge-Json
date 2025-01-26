@@ -1,0 +1,15 @@
+{
+    "name": "549. The Freedom to Be Me",
+    "description": "The freedom to be me is the most powerful gift I've given myself. It means letting go of the need to please others or fit into their mold. The freedom to be me is knowing that I am worthy of love, respect, and acceptance just as I am.",
+    "image": "549.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, black, white, black"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

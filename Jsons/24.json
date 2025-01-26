@@ -1,0 +1,15 @@
+{
+    "name": "25. Run In The Dark",
+    "description": "Some paths aren't meant to be seen they're felt. In the dark, where fear and doubt try to take hold, I keep moving, trusting my heart to guide me. It's not about seeing the way; it's about believing I'll find it.",
+    "image": "25.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, tan"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

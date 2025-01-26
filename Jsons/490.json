@@ -1,0 +1,15 @@
+{
+    "name": "491. The Beauty of Belonging",
+    "description": "Belonging isn't about fitting into a mold it's about finding people, spaces, and moments where I can truly be myself. The beauty of belonging is knowing that I am accepted and valued for who I am, just as I am. It's a space where I can be vulnerable and strong, all at once.",
+    "image": "491.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, pink, purple"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

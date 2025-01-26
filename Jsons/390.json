@@ -1,0 +1,15 @@
+{
+    "name": "391. My True Self",
+    "description": "My true self is more than what others see it's the person who has fought through pain, doubt, and challenges to get to where I am today. I may be different, but that difference is my power. My true self is the one who has learned to love, to struggle, to grow, and to thrive, no matter the obstacles.",
+    "image": "391.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

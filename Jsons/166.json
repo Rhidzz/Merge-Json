@@ -1,0 +1,15 @@
+{
+    "name": "167. Dance of Desire",
+    "description": "Our love is a dance, one that flows between us, full of passion, longing, and connection. Every step is guided by the rhythm of our hearts, pulsing with desire. The dance of desire is an endless journey, one that I never want to stop.",
+    "image": "167.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, yellow, red, black, lime green"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

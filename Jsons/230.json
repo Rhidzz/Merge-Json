@@ -1,0 +1,15 @@
+{
+    "name": "231. Read All About It",
+    "description": "There's a story that's waiting to be told, a journey full of highs and lows, joy and pain. Read all about it this love, this life, the struggles that brought us here. It's more than just words; it's everything we've been through to reach this point.",
+    "image": "231.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray, white, red, orange, black, yellow, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

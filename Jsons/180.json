@@ -1,0 +1,15 @@
+{
+    "name": "181. Let Me Love You",
+    "description": "Let me love you, not just in the easy moments, but through the struggle, the pain, and the quiet ones. Let me show you that love is not about perfection, but about standing by each other, no matter the distance. In my love for you, I will always be everything you need.",
+    "image": "181.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, white, yellow, orange"
+        },
+        {
+            "trait_type": "texture",
+            "value": "encaustic"
+        }
+    ]
+}

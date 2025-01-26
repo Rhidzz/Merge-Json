@@ -1,0 +1,15 @@
+{
+    "name": "38. No Fear, Just Love",
+    "description": "Let go of all the doubts, the what-ifs, the hesitations. When it's real, there's no room for fear only love. It's in every touch, every word, every silent moment shared between us. No fear, just love, and that's all we need.",
+    "image": "38.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow, black, orange, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips"
+        }
+    ]
+}

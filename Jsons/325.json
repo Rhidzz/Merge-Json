@@ -1,0 +1,15 @@
+{
+    "name": "326. Heartstrings Pulled",
+    "description": "There are moments when my heartstrings are pulled so tightly, it feels like they might break. Living with a disability means feeling everything deeply, both the joys and the sorrows. But these heartstrings are what connect me to the world, reminding me of the love and empathy I carry within.",
+    "image": "326.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "pink, purple, turquoise, orange, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

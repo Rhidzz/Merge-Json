@@ -1,0 +1,15 @@
+{
+    "name": "485. Living with Purpose",
+    "description": "I live with purpose, knowing that every step I take has meaning. The struggles, the triumphs, and the quiet moments all contribute to the bigger picture of who I am becoming. Living with purpose means creating a life that reflects my values, my dreams, and my truth.",
+    "image": "485.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, green, black, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "165. Desire in the Dark",
+    "description": "Even in the darkness, I can feel the pull of desire, a longing that burns brighter than any light. It's not just the physical connection, but the way our souls intertwine, unseen but deeply felt. Desire in the dark is a love that's raw, intense, and unstoppable.",
+    "image": "165.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, yellow, green, gray, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips, gold foil"
+        }
+    ]
+}

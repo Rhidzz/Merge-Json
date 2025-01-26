@@ -1,0 +1,15 @@
+{
+    "name": "21. Body Language",
+    "description": "Words aren't always necessary when we're together. The way you move, the way your touch lingers it all speaks volumes. Your body language tells me everything I need to know, and I'm listening with my heart.",
+    "image": "21.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, yellow, black, orange, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "162. Love Without Limits",
+    "description": "Our love is boundless, limitless, transcending all the obstacles and pain that life throws our way. It's a love that knows no boundaries, no ends, and no limits. In your arms, I find a love so free, so pure, it can't be contained.",
+    "image": "162.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple, green, white, black, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "257. Let the Moments Speak",
+    "description": "Sometimes, the moments we share say more than words ever could. Let the laughter, the tears, and the simple moments speak for themselves. Every second we have together tells the story of our love, and it's a story I'll always cherish.",
+    "image": "257.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "green, white, pink, dark green, blue, bright blue, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "78. Let's Take Our Time",
+    "description": "There's no rush when we're together. Let's take our time, savoring each moment, letting the connection grow as it's meant to. In this fast-paced world, it's the one thing I don't want to rush.",
+    "image": "78.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gold, blue, white "
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes, drips"
+        }
+    ]
+}

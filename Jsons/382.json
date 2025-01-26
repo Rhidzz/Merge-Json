@@ -1,0 +1,15 @@
+{
+    "name": "383. Vulnerable Heart",
+    "description": "My heart is vulnerable open to the world, to love, to pain, and everything in between. Living with a disability has taught me that vulnerability isn't weakness; it's a source of power. A vulnerable heart is one that feels everything deeply, and in that depth, I find the courage to face whatever comes next.",
+    "image": "383.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, white, black, red, pink"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "48. Meet Me Where the Stars Shine Bright",
+    "description": "Let's find each other in a place where the world feels far away, where the sky is endless, and the stars shine brighter than all our worries. Meet me where the stars shine bright, where love feels limitless, and our hearts beat in perfect harmony.",
+    "image": "48.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "red, pink, magenta, black, white"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes"
+        }
+    ]
+}

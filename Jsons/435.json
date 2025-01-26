@@ -1,0 +1,15 @@
+{
+    "name": "436. In the Space Between",
+    "description": "There's a space between who I was and who I'm becoming, a space that's filled with possibility and potential. It's in this space where I find the courage to evolve, to challenge the expectations, and to step into my own truth. In the space between, I discover who I am meant to be.",
+    "image": "436.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "foil, drips, saturated"
+        }
+    ]
+}

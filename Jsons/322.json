@@ -1,0 +1,15 @@
+{
+    "name": "323. Struggling to Breathe",
+    "description": "There are moments when it feels like I'm struggling to breathe, like the weight of everything I'm facing is too heavy to carry. But even in those moments, I remind myself that I've made it this far, that I've survived more than I thought possible. Struggling to breathe doesn't mean I'm failing it means I'm alive, fighting for my place in this world.",
+    "image": "323.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

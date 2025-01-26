@@ -1,0 +1,15 @@
+{
+    "name": "208. Boundless Passion",
+    "description": "There's no limit to what we feel, no end to the passion between us. It's the fire that keeps us going, the spark that lights up the darkest days. Boundless passion doesn't just burn, it transforms everything it touches.",
+    "image": "208.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}

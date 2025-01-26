@@ -1,0 +1,15 @@
+{
+    "name": "397. Lost in My Own Reflection",
+    "description": "Sometimes, I feel lost in my own reflection, unsure of how I fit into the world or how the world sees me. My image doesn't always match the way I feel inside, and it can be hard to reconcile the two. But even when I'm lost in my reflection, I know that I'm constantly evolving, constantly finding pieces of myself I never knew existed.",
+    "image": "397.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue, orange, pink, purple, turquoise"
+        },
+        {
+            "trait_type": "texture",
+            "value": "drips, brush strokes, saturated"
+        }
+    ]
+}

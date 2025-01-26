@@ -1,0 +1,15 @@
+{
+    "name": "285. Echoes of My Mind",
+    "description": "My mind is full of echoes thoughts, feelings, memories that I can't quite shake. Living with a disability means navigating a world that sometimes doesn't understand, but those echoes are mine, and they remind me of how far I've come. They might echo, but they don't control me they shape me into who I am.",
+    "image": "285.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "white, blue, gray, dark blue"
+        },
+        {
+            "trait_type": "texture",
+            "value": "glitter, brush strokes, saturated"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "43. Slave to Desire",
+    "description": "Desire pulls at me like a force I can't control, guiding my every move, my every thought. I'm caught in its grip, lost between what I want and what I need. Maybe it's a weakness, or maybe it's just the way I feel alive.",
+    "image": "43.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black, white, yellow, magenta, gray"
+        },
+        {
+            "trait_type": "texture",
+            "value": "brush strokes"
+        }
+    ]
+}
